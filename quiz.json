@@ -1,0 +1,82 @@
+{
+  "items": [
+    {
+      "id": "oa1",
+      "category": "codex",
+      "question": "Where do Codex cloud tasks run?",
+      "choices": [
+        "On your local machine",
+        "In an isolated cloud container",
+        "Inside the VS Code process",
+        "On a GitHub Actions runner only"
+      ],
+      "answer": 1,
+      "explain": "Codex provisions a sandboxed container per task."
+    },
+    {
+      "id": "oa2",
+      "category": "codex",
+      "question": "What is a good way to run tasks concurrently?",
+      "choices": [
+        "Ask for a local run",
+        "Start a new cloud task explicitly",
+        "Wait for one task to finish",
+        "Use a single long task only"
+      ],
+      "answer": 1,
+      "explain": "Start separate cloud tasks to parallelize."
+    },
+    {
+      "id": "gh1",
+      "category": "github",
+      "question": "A pull request primarily enables what?",
+      "choices": [
+        "Direct pushes to main",
+        "Code review and merge proposals",
+        "Automatic tagging",
+        "Issue triage"
+      ],
+      "answer": 1,
+      "explain": "PRs propose changes and enable review before merge."
+    },
+    {
+      "id": "gh2",
+      "category": "github",
+      "question": "Safe force-push command?",
+      "choices": [
+        "git push --force",
+        "git push --force-with-lease",
+        "git push -f --all",
+        "Avoid any pushes"
+      ],
+      "answer": 1,
+      "explain": "`--force-with-lease` protects against overwriting others' work."
+    },
+    {
+      "id": "fn1",
+      "category": "fundamentals",
+      "question": "Compiler vs runtime: which runs the program?",
+      "choices": [
+        "Compiler",
+        "Runtime",
+        "Linker",
+        "Preprocessor"
+      ],
+      "answer": 1,
+      "explain": "The runtime executes compiled or interpreted code."
+    },
+    {
+      "id": "fn2",
+      "category": "web",
+      "question": "HTTP GET is best used for:",
+      "choices": [
+        "Creating a resource",
+        "Updating a resource",
+        "Retrieving data without side effects",
+        "Deleting a resource"
+      ],
+      "answer": 2,
+      "explain": "GET is safe and idempotent for retrieval."
+    }
+  ]
+}

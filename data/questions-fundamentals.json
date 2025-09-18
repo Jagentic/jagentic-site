@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "id": "fn1",
+      "category": "fundamentals",
+      "question": "Compiler vs runtime: which runs the program?",
+      "choices": ["Compiler", "Runtime", "Linker", "Preprocessor"],
+      "answer": 1,
+      "explain": "The runtime executes compiled or interpreted code."
+    },
+    {
+      "id": "fn2",
+      "category": "web",
+      "question": "HTTP GET is best used for:",
+      "choices": ["Creating a resource", "Updating a resource", "Retrieving data without side effects", "Deleting a resource"],
+      "answer": 2,
+      "explain": "GET is safe and idempotent for retrieval."
+    }
+  ]
+}

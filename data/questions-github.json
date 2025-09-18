@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "id": "gh1",
+      "category": "github",
+      "question": "A pull request primarily enables what?",
+      "choices": ["Direct pushes to main", "Code review and merge proposals", "Automatic tagging", "Issue triage"],
+      "answer": 1,
+      "explain": "PRs propose changes and enable review before merge."
+    },
+    {
+      "id": "gh2",
+      "category": "github",
+      "question": "Safe force-push command?",
+      "choices": ["git push --force", "git push --force-with-lease", "git push -f --all", "Avoid any pushes"],
+      "answer": 1,
+      "explain": "`--force-with-lease` protects against overwriting others' work."
+    }
+  ]
+}

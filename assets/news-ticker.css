@@ -1,0 +1,5 @@
+#news-ticker { overflow:hidden; padding:8px 0; border-top:1px solid #222; border-bottom:1px solid #222; background:#0e0e10; }
+#news-ticker .track { display:inline-block; white-space:nowrap; animation:scroll 40s linear infinite; will-change:transform; }
+#news-ticker:hover .track { animation-play-state:paused; }
+#news-ticker a { color:#cfd5db; text-decoration:none; margin-right:2rem; }
+@keyframes scroll { from { transform: translateX(100%);} to { transform: translateX(-100%);} }

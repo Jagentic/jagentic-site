@@ -1,0 +1,15 @@
+:root { --fg:#e6e6e6; --bg:#0b0b0c; --muted:#9aa0a6; --accent:#7bd3ff; }
+* { box-sizing: border-box; }
+body { margin:0; color:var(--fg); background:var(--bg); font:16px/1.5 ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Inter; }
+.wrap { max-width: 960px; margin: 0 auto; padding: 24px; }
+h1 { margin:0 0 4px; font-size: 28px; }
+.tag { margin:0 0 16px; color:var(--muted); }
+#quiz-panel { background:#111; border:1px solid #222; border-radius:10px; padding:16px; }
+button { cursor:pointer; border:1px solid #333; background:#151515; color:var(--fg); padding:8px 12px; border-radius:8px; }
+button:disabled { opacity:.5; cursor:not-allowed; }
+.q { margin: 8px 0 12px; font-weight:600; }
+.choices label { display:block; margin:6px 0; }
+.meta { color:var(--muted); font-size:12px; margin-top:8px; }
+a { color:var(--accent); text-decoration:none; }
+a:hover { text-decoration:underline; }
+footer { border-top:1px solid #222; }

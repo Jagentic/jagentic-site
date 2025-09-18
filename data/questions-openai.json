@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "id": "oa1",
+      "category": "codex",
+      "question": "Where do Codex cloud tasks run?",
+      "choices": ["On your local machine", "In an isolated cloud container", "Inside the VS Code process", "On a GitHub Actions runner only"],
+      "answer": 1,
+      "explain": "Codex provisions a sandboxed container per task."
+    },
+    {
+      "id": "oa2",
+      "category": "codex",
+      "question": "What is a good way to run tasks concurrently?",
+      "choices": ["Ask for a local run", "Start a new cloud task explicitly", "Wait for one task to finish", "Use a single long task only"],
+      "answer": 1,
+      "explain": "Start separate cloud tasks to parallelize."
+    }
+  ]
+}
