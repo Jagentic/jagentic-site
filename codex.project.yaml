@@ -1,0 +1,12 @@
+model: gpt-5-codex
+reasoning: high
+ground_truth: COMMUNAL.status.json
+tasks:
+  serve-local:
+    description: "Run ops/run_local.sh to validate, build, and serve the site"
+  quizmaster-validate:
+    description: "Validate quiz packs via quizmaster/tools/validate.py"
+  quizmaster-build:
+    description: "Build compiled quiz packs for deployment"
+  orchestrate-cloud:
+    description: "Coordinate UI, packs, loader, ops, and admin deliverables"

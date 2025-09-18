@@ -1,0 +1,36 @@
+{
+  "project": "jagentic-site",
+  "org": "Jagentic (business-only)",
+  "domain": "jagentic.net",
+  "env": "local",
+  "cloud": {
+    "default": true,
+    "model": "gpt-5-codex",
+    "approvals": {
+      "repo_write": true,
+      "network": false
+    }
+  },
+  "pages": [
+    "/",
+    "/privacy",
+    "/terms",
+    "/analytics",
+    "/feedback",
+    "/biz",
+    "/buzz"
+  ],
+  "quiz": {
+    "biz_count": 12,
+    "buzz_count": 12,
+    "picture_mcq": true
+  },
+  "ops": {
+    "csp": "report-only",
+    "hsts": "off",
+    "sitemap_modes": true,
+    "admin_local_only": true
+  },
+  "last_run": null,
+  "next_actions": []
+}

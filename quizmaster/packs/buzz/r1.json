@@ -1,0 +1,195 @@
+{
+  "pack_id": "buzz-r1",
+  "mode": "buzz",
+  "version": "r1",
+  "questions": [
+    {
+      "id": "buzz-1",
+      "type": "mcq",
+      "category": "ai-culture",
+      "difficulty": "easy",
+      "question": "Sam Altman is best known for leading which AI lab?",
+      "choices": [
+        "Anthropic",
+        "OpenAI",
+        "Stability AI",
+        "Cohere"
+      ],
+      "answer_index": 1,
+      "explain": "Sam Altman serves as CEO of OpenAI."
+    },
+    {
+      "id": "buzz-2",
+      "type": "mcq",
+      "category": "ai-culture",
+      "difficulty": "easy",
+      "question": "Demis Hassabis co-founded which research organization?",
+      "choices": [
+        "DeepMind",
+        "EleutherAI",
+        "LAION",
+        "Red Hat"
+      ],
+      "answer_index": 0,
+      "explain": "Demis Hassabis co-founded DeepMind, later acquired by Google."
+    },
+    {
+      "id": "buzz-3",
+      "type": "mcq",
+      "category": "industry",
+      "difficulty": "easy",
+      "question": "Satya Nadella has been CEO of which technology company?",
+      "choices": [
+        "Microsoft",
+        "Adobe",
+        "IBM",
+        "Salesforce"
+      ],
+      "answer_index": 0,
+      "explain": "Satya Nadella became Microsoft CEO in 2014."
+    },
+    {
+      "id": "buzz-4",
+      "type": "mcq",
+      "category": "dev-community",
+      "difficulty": "medium",
+      "question": "Theo Browne is closely associated with which developer-focused stack?",
+      "choices": [
+        "MEAN Stack",
+        "T3 Stack",
+        "LAMP Stack",
+        "MERN Stack"
+      ],
+      "answer_index": 1,
+      "explain": "Theo Browne popularizes the T3 Stack (Next.js, tRPC, Tailwind, Prisma)."
+    },
+    {
+      "id": "buzz-5",
+      "type": "mcq",
+      "category": "research",
+      "difficulty": "medium",
+      "question": "Fei-Fei Li is widely known for co-leading which dataset effort?",
+      "choices": [
+        "GLUE",
+        "ImageNet",
+        "Common Crawl",
+        "COCO"
+      ],
+      "answer_index": 1,
+      "explain": "Fei-Fei Li helped launch ImageNet, a landmark computer vision dataset."
+    },
+    {
+      "id": "buzz-6",
+      "type": "mcq",
+      "category": "open-source",
+      "difficulty": "easy",
+      "question": "Linus Torvalds initiated which operating system kernel?",
+      "choices": [
+        "FreeBSD",
+        "Linux",
+        "illumos",
+        "Haiku"
+      ],
+      "answer_index": 1,
+      "explain": "Linus Torvalds created the Linux kernel in 1991."
+    },
+    {
+      "id": "buzz-7",
+      "type": "mcq",
+      "category": "programming",
+      "difficulty": "easy",
+      "question": "Guido van Rossum created which programming language?",
+      "choices": [
+        "Ruby",
+        "Go",
+        "Python",
+        "Rust"
+      ],
+      "answer_index": 2,
+      "explain": "Guido van Rossum authored Python in the late 1980s."
+    },
+    {
+      "id": "buzz-8",
+      "type": "mcq",
+      "category": "education",
+      "difficulty": "medium",
+      "question": "Andrew Ng co-founded which online learning platform centered on tech and ML?",
+      "choices": [
+        "Udacity",
+        "Khan Academy",
+        "Coursera",
+        "Datacamp"
+      ],
+      "answer_index": 2,
+      "explain": "Andrew Ng launched Coursera with Daphne Koller in 2012."
+    },
+    {
+      "id": "buzz-pic-1",
+      "type": "picture_mcq",
+      "category": "people",
+      "difficulty": "easy",
+      "question": "Which leader is shown in this portrait?",
+      "choices": [
+        "Sam Altman",
+        "Satya Nadella",
+        "Demis Hassabis",
+        "Theo Browne"
+      ],
+      "answer_index": 0,
+      "explain": "The placeholder portrait represents Sam Altman.",
+      "image": "/assets/people/sam_altman.jpg",
+      "alt": "Portrait photo."
+    },
+    {
+      "id": "buzz-pic-2",
+      "type": "picture_mcq",
+      "category": "people",
+      "difficulty": "easy",
+      "question": "Identify the executive shown in the portrait.",
+      "choices": [
+        "Satya Nadella",
+        "Susan Wojcicki",
+        "Ginni Rometty",
+        "Sundar Pichai"
+      ],
+      "answer_index": 0,
+      "explain": "The placeholder portrait maps to Satya Nadella.",
+      "image": "/assets/people/satya_nadella.jpg",
+      "alt": "Portrait photo."
+    },
+    {
+      "id": "buzz-pic-3",
+      "type": "picture_mcq",
+      "category": "people",
+      "difficulty": "medium",
+      "question": "Which AI lab co-founder does this portrait represent?",
+      "choices": [
+        "Demis Hassabis",
+        "Yann LeCun",
+        "Ilya Sutskever",
+        "Geoffrey Hinton"
+      ],
+      "answer_index": 0,
+      "explain": "The placeholder portrait is labeled for Demis Hassabis.",
+      "image": "/assets/people/demis_hassabis.jpg",
+      "alt": "Portrait photo."
+    },
+    {
+      "id": "buzz-pic-4",
+      "type": "picture_mcq",
+      "category": "people",
+      "difficulty": "medium",
+      "question": "This portrait corresponds to which developer advocate?",
+      "choices": [
+        "Kent C. Dodds",
+        "Theo Browne",
+        "Adam Wathan",
+        "Cassidy Williams"
+      ],
+      "answer_index": 1,
+      "explain": "The placeholder is assigned to Theo Browne of the T3 community.",
+      "image": "/assets/people/theo_browne.jpg",
+      "alt": "Portrait photo."
+    }
+  ]
+}

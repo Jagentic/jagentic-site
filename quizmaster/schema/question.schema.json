@@ -1,0 +1,7 @@
+{ "title":"Question","type":"object","required":["id","type","category","difficulty","question","choices","answer_index"],
+  "properties":{"id":{"type":"string"},"type":{"type":"string","enum":["mcq","picture_mcq"]},"category":{"type":"string"},
+  "difficulty":{"type":"string","enum":["easy","medium","hard"]},"question":{"type":"string"},
+  "choices":{"type":"array","minItems":4,"maxItems":4,"items":{"type":"string"}},
+  "answer_index":{"type":"integer","minimum":0,"maximum":3},"explain":{"type":"string"},
+  "image":{"type":"string"},"alt":{"type":"string"}},
+  "allOf":[{"if":{"properties":{"type":{"const":"picture_mcq"}}},"then":{"required":["image","alt"]}}] }

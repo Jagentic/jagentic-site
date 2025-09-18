@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Quizmaster Admin</title>
+  <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+  <header class="qm-header">
+    <h1>Quizmaster Admin</h1>
+    <p>Build and validate BIZ/BUZZ question packs locally. No network calls.</p>
+  </header>
+
+  <main class="qm-main">
+    <section class="panel">
+      <h2>Pack Metadata</h2>
+      <form id="packForm" class="form-grid">
+        <label>Pack ID
+          <input type="text" id="packId" placeholder="biz-r1" required>
+        </label>
+        <label>Mode
+          <select id="packMode">
+            <option value="biz">biz</option>
+            <option value="buzz">buzz</option>
+          </select>
+        </label>
+        <label>Version
+          <input type="text" id="packVersion" value="r1" required>
+        </label>
+        <label>Autoset IDs
+          <input type="checkbox" id="autoIds" checked>
+        </label>
+      </form>
+    </section>
+
+    <section class="panel">
+      <h2>Question Editor</h2>
+      <form id="questionForm" class="form-grid">
+        <label>Question ID
+          <input type="text" id="questionId" placeholder="biz-1">
+        </label>
+        <label>Type
+          <select id="questionType">
+            <option value="mcq">Multiple choice</option>
+            <option value="picture_mcq">Picture multiple choice</option>
+          </select>
+        </label>
+        <label>Category
+          <input type="text" id="questionCategory" placeholder="mac">
+        </label>
+        <label>Difficulty
+          <select id="questionDifficulty">
+            <option value="easy">easy</option>
+            <option value="medium">medium</option>
+            <option value="hard">hard</option>
+          </select>
+        </label>
+        <label>Question
+          <textarea id="questionText" rows="3" required></textarea>
+        </label>
+        <fieldset class="choices-fieldset">
+          <legend>Choices (A–D)</legend>
+          <input type="text" class="choice-input" data-index="0" placeholder="Choice A" required>
+          <input type="text" class="choice-input" data-index="1" placeholder="Choice B" required>
+          <input type="text" class="choice-input" data-index="2" placeholder="Choice C" required>
+          <input type="text" class="choice-input" data-index="3" placeholder="Choice D" required>
+        </fieldset>
+        <label>Answer Index (0-3)
+          <input type="number" id="answerIndex" min="0" max="3" value="0" required>
+        </label>
+        <div id="pictureFields" class="picture-fields hidden">
+          <label>Image path
+            <input type="text" id="imagePath" placeholder="/assets/people/sam_altman.jpg">
+          </label>
+          <label>Alt text
+            <input type="text" id="imageAlt" value="Portrait photo.">
+          </label>
+        </div>
+        <label>Explanation
+          <textarea id="questionExplain" rows="2"></textarea>
+        </label>
+        <div class="form-actions">
+          <button type="submit" id="saveQuestion">Save Question</button>
+          <button type="button" id="resetQuestion">Reset</button>
+        </div>
+      </form>
+    </section>
+
+    <section class="panel">
+      <h2>Pack Questions</h2>
+      <table id="questionsTable">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>ID</th>
+            <th>Type</th>
+            <th>Category</th>
+            <th>Difficulty</th>
+            <th>Question</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <div class="panel-actions">
+        <button type="button" id="validatePack">Validate</button>
+        <button type="button" id="exportPack">Export JSON</button>
+        <button type="button" id="clearPack">Clear All</button>
+        <span id="status" role="status" aria-live="polite"></span>
+      </div>
+    </section>
+  </main>
+
+  <footer class="qm-footer">
+    <small>Local admin tool. Save exported JSON into quizmaster/packs/&lt;mode&gt;.</small>
+  </footer>
+
+  <script src="admin.js" defer></script>
+</body>
+</html>

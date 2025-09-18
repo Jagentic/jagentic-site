@@ -1,0 +1,187 @@
+{
+  "pack_id": "biz-r1",
+  "mode": "biz",
+  "version": "r1",
+  "questions": [
+    {
+      "id": "biz-1",
+      "type": "mcq",
+      "category": "mac",
+      "difficulty": "easy",
+      "question": "Which macOS keyboard shortcut opens Spotlight search?",
+      "choices": [
+        "Command+Shift+P",
+        "Command+Space",
+        "Control+Space",
+        "Option+Space"
+      ],
+      "answer_index": 1,
+      "explain": "Command+Space invokes Spotlight system-wide."
+    },
+    {
+      "id": "biz-2",
+      "type": "mcq",
+      "category": "mac",
+      "difficulty": "easy",
+      "question": "What is the quickest way to capture a selection screenshot on macOS?",
+      "choices": [
+        "Shift+Command+4",
+        "Command+Shift+5",
+        "Command+3",
+        "Control+Command+4"
+      ],
+      "answer_index": 0,
+      "explain": "Shift+Command+4 turns the cursor into a crosshair for selection captures."
+    },
+    {
+      "id": "biz-3",
+      "type": "mcq",
+      "category": "iterm",
+      "difficulty": "medium",
+      "question": "In iTerm2, which shortcut splits the current pane vertically?",
+      "choices": [
+        "Command+D",
+        "Command+Shift+D",
+        "Option+Command+D",
+        "Control+Command+V"
+      ],
+      "answer_index": 0,
+      "explain": "Command+D creates a vertical split; Shift+D splits horizontally."
+    },
+    {
+      "id": "biz-4",
+      "type": "mcq",
+      "category": "iterm",
+      "difficulty": "medium",
+      "question": "What does Command+K do in iTerm2 by default?",
+      "choices": [
+        "Kills the current SSH session",
+        "Clears the scrollback buffer",
+        "Toggles full screen",
+        "Creates a new profile"
+      ],
+      "answer_index": 1,
+      "explain": "Command+K clears the visible buffer without closing the session."
+    },
+    {
+      "id": "biz-5",
+      "type": "mcq",
+      "category": "vscode",
+      "difficulty": "easy",
+      "question": "Which shortcut opens the Command Palette in VS Code on macOS?",
+      "choices": [
+        "Command+Shift+P",
+        "Control+P",
+        "Command+P",
+        "Command+Shift+O"
+      ],
+      "answer_index": 0,
+      "explain": "Command+Shift+P opens the Command Palette with all actions."
+    },
+    {
+      "id": "biz-6",
+      "type": "mcq",
+      "category": "vscode",
+      "difficulty": "medium",
+      "question": "How do you add an extra cursor with the mouse in VS Code on macOS?",
+      "choices": [
+        "Command+Click",
+        "Option+Click",
+        "Shift+Click",
+        "Control+Click"
+      ],
+      "answer_index": 1,
+      "explain": "Option+Click adds another cursor for multi-editing."
+    },
+    {
+      "id": "biz-7",
+      "type": "mcq",
+      "category": "git",
+      "difficulty": "easy",
+      "question": "Which Git command creates and checks out a new branch named feature/login?",
+      "choices": [
+        "git branch feature/login",
+        "git checkout feature/login",
+        "git checkout -b feature/login",
+        "git switch feature/login"
+      ],
+      "answer_index": 2,
+      "explain": "git checkout -b <name> creates the branch and switches to it immediately."
+    },
+    {
+      "id": "biz-8",
+      "type": "mcq",
+      "category": "github",
+      "difficulty": "easy",
+      "question": "What is the primary purpose of a pull request on GitHub?",
+      "choices": [
+        "To rewrite repository history",
+        "To request review and discussion before merging",
+        "To delete a remote branch",
+        "To fork a repository"
+      ],
+      "answer_index": 1,
+      "explain": "Pull requests enable code review, discussion, and checks before merging."
+    },
+    {
+      "id": "biz-9",
+      "type": "mcq",
+      "category": "models",
+      "difficulty": "medium",
+      "question": "Which statement best describes a foundation model?",
+      "choices": [
+        "A model trained for one specific downstream task",
+        "A broadly pretrained model adapted to many tasks",
+        "A model that only runs on mobile devices",
+        "A rules engine with hard-coded logic"
+      ],
+      "answer_index": 1,
+      "explain": "Foundation models are pretrained on diverse data and fine-tuned for multiple tasks."
+    },
+    {
+      "id": "biz-10",
+      "type": "mcq",
+      "category": "web_vitals",
+      "difficulty": "medium",
+      "question": "Which Core Web Vitals metric tracks perceived load speed of the main content?",
+      "choices": [
+        "First Input Delay",
+        "Largest Contentful Paint",
+        "Cumulative Layout Shift",
+        "Time to First Byte"
+      ],
+      "answer_index": 1,
+      "explain": "Largest Contentful Paint measures when the biggest content element renders."
+    },
+    {
+      "id": "biz-11",
+      "type": "mcq",
+      "category": "security",
+      "difficulty": "easy",
+      "question": "What does a Content-Security-Policy (CSP) primarily do?",
+      "choices": [
+        "Cache assets across CDNs",
+        "Restrict allowed sources for content",
+        "Encrypt all cookies",
+        "Set the site timezone"
+      ],
+      "answer_index": 1,
+      "explain": "CSP reduces XSS risk by limiting which origins may supply resources."
+    },
+    {
+      "id": "biz-12",
+      "type": "mcq",
+      "category": "security",
+      "difficulty": "medium",
+      "question": "Which header tells browsers to prefer HTTPS for future requests?",
+      "choices": [
+        "X-Frame-Options",
+        "Strict-Transport-Security",
+        "Access-Control-Allow-Origin",
+        "Referrer-Policy"
+      ],
+      "answer_index": 1,
+      "explain": "Strict-Transport-Security (HSTS) locks the origin to HTTPS once trusted."
+    }
+  ]
+}

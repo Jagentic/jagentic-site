@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jagentic — Engineering Agents, Apps, and Outcomes.</title>
+  <meta name="description" content="Millionaire-style quiz with BIZ and BUZZ modes. Privacy-first, local only.">
+  <link rel="canonical" href="https://jagentic.net/">
+  <meta name="theme-color" content="#0b2a61">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="/assets/css/noir.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="hero" role="banner">
+    <div class="wrap hero__inner">
+      <div class="hero__brand">
+        <span class="hero__wordmark" aria-label="Jagentic">j_a_g_e_n_t_i_c</span>
+        <p class="hero__tagline">Every aggravation an opportunity.</p>
+        <p class="hero__subline">Engineering Agents, Apps, and Outcomes.</p>
+      </div>
+      <nav class="mode-tabs" aria-label="Quiz modes" role="tablist">
+        <a href="/?mode=biz" data-mode="biz" role="tab" aria-selected="true" tabindex="0" class="active">BIZ</a>
+        <a href="/?mode=buzz" data-mode="buzz" role="tab" aria-selected="false" tabindex="-1">BUZZ</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="site-main" role="main">
+    <div class="wrap stage-wrap">
+      <section class="stage" aria-label="Quiz stage">
+        <div class="stage__frame" aria-hidden="true"></div>
+        <div class="stage__glow" aria-hidden="true"></div>
+
+        <header class="stage__header">
+          <p class="stage__label" id="stageLabel" aria-live="polite">Millionaire · XL Stage · BIZ</p>
+          <div class="hud" role="presentation">
+            <div class="timer" aria-label="Time remaining"><span id="time">60</span>s</div>
+            <div class="progress"><span id="progress-text">Q 1 / 10</span></div>
+            <div class="lifelines" aria-label="Lifelines">
+              <button id="lifeline5050" class="lifeline" aria-pressed="false">50:50</button>
+              <button id="lifelineSkip" class="lifeline" aria-pressed="false">Skip</button>
+            </div>
+          </div>
+        </header>
+
+        <h2 id="questionText" class="question">Jagentic</h2>
+        <figure id="questionMedia" class="question-media hidden" aria-hidden="true">
+          <img id="questionImage" src="" alt="" loading="lazy">
+          <figcaption id="questionMediaNote" class="question-media__note" hidden>Portrait preview unavailable.</figcaption>
+        </figure>
+
+        <div class="choices" role="radiogroup" aria-label="Answer choices">
+          <button class="choice" data-index="0"><span class="label">A</span><span class="text"></span></button>
+          <button class="choice" data-index="1"><span class="label">B</span><span class="text"></span></button>
+          <button class="choice" data-index="2"><span class="label">C</span><span class="text"></span></button>
+          <button class="choice" data-index="3"><span class="label">D</span><span class="text"></span></button>
+        </div>
+
+        <div id="summary" class="summary hidden" aria-live="polite">
+          <h2>Well played.</h2>
+          <p><strong>Score:</strong> <span id="score"></span> / <span id="total"></span></p>
+          <div class="summary-actions">
+            <button id="playAgainBtn">Play again</button>
+            <button id="exportResultsBtn">Export results (JSON)</button>
+            <button id="clearLocalBtn">Clear local data</button>
+          </div>
+          <details class="explanations">
+            <summary>Review explanations</summary>
+            <ol id="explanationsList"></ol>
+          </details>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <section class="news-ribbon" aria-label="Signals ticker">
+    <div class="news-ribbon__panel" id="newsPanelLeft">
+      <span class="panel-label">Signal</span>
+      <span class="panel-value">Jagentic</span>
+    </div>
+    <div class="news-ribbon__track" id="newsTrack" role="presentation"></div>
+    <div class="news-ribbon__panel" id="newsPanelRight">
+      <span class="panel-label">Pulse</span>
+      <span class="panel-value" id="newsPulse">00 · 00</span>
+    </div>
+  </section>
+
+  <footer class="site-footer" role="contentinfo">
+    <div class="mini-brand">
+      <span>© <span id="year"></span> Jagentic • v1.0.0‑landing‑mvp</span>
+      <span class="handle">@Jagentic</span>
+    </div>
+  </footer>
+
+  <script src="/assets/js/app.js" defer></script>
+  <script src="/assets/js/mode.js" defer></script>
+  <script src="/assets/js/ticker.js" defer></script>
+  <script src="/assets/js/quiz.cockpit.js" defer></script>
+  <script src="/assets/js/quiz.js" defer></script>
+</body>
+</html>
