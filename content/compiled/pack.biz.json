@@ -287,7 +287,112 @@
         "Online Safety",
         "VPNs"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "easy",
+      "question": "What product did Microsoft recently launch for Windows 11 PCs?",
+      "choices": [
+        "A. Xbox Copilot",
+        "B. Office 365",
+        "C. Teams Pro",
+        "D. Surface Pro"
+      ],
+      "answer_index": 0,
+      "explain": "Microsoft's Xbox Copilot is designed to enhance gaming experiences on Windows 11 PCs.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Xbox",
+        "Windows 11"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "Which company claims to remove CO2 using less electricity than its competitors?",
+      "choices": [
+        "A. DACLab",
+        "B. Tesla",
+        "C. Carbon Clean",
+        "D. Blue Planet"
+      ],
+      "answer_index": 0,
+      "explain": "DACLab has announced its capability to remove CO2 more efficiently than many competitors.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "DACLab",
+        "CO2",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What concern did Satya Nadella express regarding Microsoft's future?",
+      "choices": [
+        "A. Gaming revenue",
+        "B. AI survival",
+        "C. Cloud services",
+        "D. Hardware sales"
+      ],
+      "answer_index": 1,
+      "explain": "Satya Nadella expressed concerns about Microsoft's ability to thrive in the AI era.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Satya Nadella",
+        "AI",
+        "Microsoft"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "What major development is associated with Microsoft and Foxconn?",
+      "choices": [
+        "A. New gaming console",
+        "B. AI data center",
+        "C. IoT platform",
+        "D. Smartphone"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft is converting Foxconn's vacant buildings into a powerful AI data center.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Foxconn",
+        "AI"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What was the key issue in the recent Anker product recall?",
+      "choices": [
+        "A. Fire hazard",
+        "B. Battery life",
+        "C. Design flaw",
+        "D. Compatibility"
+      ],
+      "answer_index": 0,
+      "explain": "Anker's recall of over 481,000 power banks was due to fire hazard concerns.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Anker",
+        "recall",
+        "safety"
+      ]
     }
   ],
-  "last_updated": "2025-10-21T12:58:56.839Z"
+  "last_updated": "2025-10-21T13:35:41.927Z"
 }

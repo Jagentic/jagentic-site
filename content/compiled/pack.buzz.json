@@ -295,7 +295,112 @@
         "AI",
         "Foxconn"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "Which company recently launched Xbox Copilot for Windows 11 PCs?",
+      "choices": [
+        "A. Sony",
+        "B. Microsoft",
+        "C. Nintendo",
+        "D. Valve"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft is the company behind the Xbox Copilot, which enhances gaming experiences on Windows 11.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Xbox",
+        "Windows 11"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What environmental achievement did DACLab claim regarding CO2 removal?",
+      "choices": [
+        "A. Uses more electricity than competitors",
+        "B. Removes CO2 using less electricity than many competitors",
+        "C. Increases CO2 emissions",
+        "D. Requires no electricity at all"
+      ],
+      "answer_index": 1,
+      "explain": "DACLab asserts it can remove CO2 with lower electricity consumption compared to several other companies in the field.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "DACLab",
+        "CO2 Removal",
+        "Environment"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "easy",
+      "question": "Which film director recently commented on the creative nature of AI?",
+      "choices": [
+        "A. Steven Spielberg",
+        "B. James Cameron",
+        "C. Martin Scorsese",
+        "D. Christopher Nolan"
+      ],
+      "answer_index": 1,
+      "explain": "James Cameron noted that AI can be as creative as humans, but lacks a unique lived experience.",
+      "source": "https://theverge.com",
+      "tags": [
+        "James Cameron",
+        "AI",
+        "Creativity"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What recent bill aims to block online adult content and VPNs?",
+      "choices": [
+        "A. Internet Safety Bill",
+        "B. Digital Privacy Act",
+        "C. Online Content Regulation Bill",
+        "D. Secure Internet Bill"
+      ],
+      "answer_index": 0,
+      "explain": "The Internet Safety Bill aims to restrict access to online adult content and VPN services.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "Internet Safety",
+        "Legislation",
+        "VPN"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What is Microsoft planning to do with Foxconn's empty buildings?",
+      "choices": [
+        "A. Convert them into gaming centers",
+        "B. Turn them into the world’s most powerful AI data center",
+        "C. Use them for hardware manufacturing",
+        "D. Sell them for real estate"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft intends to transform Foxconn's vacant buildings into a major AI data center.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Foxconn"
+      ]
     }
   ],
-  "last_updated": "2025-10-21T12:58:56.839Z"
+  "last_updated": "2025-10-21T13:35:41.927Z"
 }
