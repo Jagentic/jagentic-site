@@ -1,0 +1,43 @@
+name: Curate quiz questions daily
+
+on:
+  schedule:
+    # Run once daily at 9 AM UTC
+    - cron: "0 9 * * *"
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  curate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Run quiz curation agent
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: npm run curate
+
+      - name: Commit and push curated content
+        run: |
+          git config user.name "jagentic-bot"
+          git config user.email "bot@jagentic.net"
+
+          # Add all changes in content directory
+          git add content/curated/*.json content/compiled/*.json
+
+          # Commit if there are changes
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: daily quiz curation $(date +%Y-%m-%d)"
+            git push
+          else
+            echo "No new questions generated"
+          fi
