@@ -1,0 +1,220 @@
+{
+  "generated_at": "2025-10-21T12:58:56.837Z",
+  "total_questions": 10,
+  "categories": {
+    "biz": 5,
+    "buzz": 5
+  },
+  "questions": [
+    {
+      "id": "1",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "easy",
+      "question": "What recent feature has Microsoft introduced for Windows 11 users?",
+      "choices": [
+        "A. Xbox Copilot",
+        "B. Xbox Live Gold",
+        "C. Xbox Game Pass Ultimate",
+        "D. Xbox Cloud Gaming"
+      ],
+      "answer_index": 0,
+      "explain": "Microsoft launched Xbox Copilot for Windows 11, enhancing gaming capabilities on PCs.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Windows 11",
+        "Xbox"
+      ]
+    },
+    {
+      "id": "2",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "Which company claims it can remove CO2 using less electricity than competitors?",
+      "choices": [
+        "A. Tesla",
+        "B. DACLab",
+        "C. CarbonClean",
+        "D. Climeworks"
+      ],
+      "answer_index": 1,
+      "explain": "DACLab has made headlines for its CO2 removal technology that is more energy-efficient than many alternatives.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "DACLab",
+        "CO2 Removal",
+        "Clean Tech"
+      ]
+    },
+    {
+      "id": "3",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What is the main concern Satya Nadella has regarding Microsoft's future?",
+      "choices": [
+        "A. Competition with Apple",
+        "B. Not surviving the AI era",
+        "C. Cybersecurity threats",
+        "D. Employee retention"
+      ],
+      "answer_index": 1,
+      "explain": "Satya Nadella expressed concerns about Microsoft's ability to stay relevant in the rapidly evolving AI landscape.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Satya Nadella",
+        "Microsoft",
+        "AI"
+      ]
+    },
+    {
+      "id": "4",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "What significant change is Microsoft planning with Foxconn's empty buildings?",
+      "choices": [
+        "A. AI Training Center",
+        "B. AI Data Center",
+        "C. Manufacturing Hub",
+        "D. Research & Development Lab"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft intends to transform Foxconn's unused facilities into a powerful AI data center to enhance its AI capabilities.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Foxconn",
+        "AI Data Center"
+      ]
+    },
+    {
+      "id": "5",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What recent legal measure aims to block online adult content and VPNs?",
+      "choices": [
+        "A. Digital Safety Bill",
+        "B. Online Safety Bill",
+        "C. Internet Freedom Act",
+        "D. Content Regulation Act"
+      ],
+      "answer_index": 1,
+      "explain": "A new bill known as the Online Safety Bill is proposed to restrict access to online adult content and VPN services.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "Legislation",
+        "Online Safety",
+        "VPNs"
+      ]
+    },
+    {
+      "id": "b101",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "easy",
+      "question": "Which company recently announced the arrival of Xbox Copilot on Windows 11 PCs worldwide?",
+      "choices": [
+        "A. Sony",
+        "B. Microsoft",
+        "C. Nintendo",
+        "D. Valve"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft launched Xbox Copilot for Windows 11, enhancing the gaming experience for users.",
+      "source": "theverge.com",
+      "tags": [
+        "Microsoft",
+        "Xbox",
+        "Windows 11"
+      ]
+    },
+    {
+      "id": "b102",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What recent initiative did DACLab succeed in regarding CO2 reduction?",
+      "choices": [
+        "A. Increasing electricity consumption",
+        "B. Using less electricity than competitors",
+        "C. Building a new power plant",
+        "D. Reducing the need for CO2 capture"
+      ],
+      "answer_index": 1,
+      "explain": "DACLab claims it can remove CO2 using less electricity than many of its competitors, marking a significant development in carbon capture technology.",
+      "source": "techcrunch.com",
+      "tags": [
+        "DACLab",
+        "CO2 reduction",
+        "environment"
+      ]
+    },
+    {
+      "id": "b103",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "Which notable filmmaker expressed concerns about the creative capabilities of AI in comparison to humans?",
+      "choices": [
+        "A. Steven Spielberg",
+        "B. James Cameron",
+        "C. Quentin Tarantino",
+        "D. Christopher Nolan"
+      ],
+      "answer_index": 1,
+      "explain": "James Cameron stated that while AI can be creative, it lacks the 'unique lived experience' that humans possess.",
+      "source": "theverge.com",
+      "tags": [
+        "AI",
+        "James Cameron",
+        "creativity"
+      ]
+    },
+    {
+      "id": "b104",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What is the purpose of the new bill mentioned in tech news that aims to block online adult content?",
+      "choices": [
+        "A. To promote free speech",
+        "B. To restrict VPN usage",
+        "C. To enhance internet privacy",
+        "D. To ban video games"
+      ],
+      "answer_index": 1,
+      "explain": "The new bill intends to block both online adult content and the use of VPNs, aiming to regulate internet access more strictly.",
+      "source": "news.ycombinator.com",
+      "tags": [
+        "internet policy",
+        "VPNs",
+        "adult content"
+      ]
+    },
+    {
+      "id": "b105",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What is Microsoft doing with Foxconn's empty buildings?",
+      "choices": [
+        "A. Selling them",
+        "B. Turning them into a gaming studio",
+        "C. Creating a data center for AI",
+        "D. Demolishing them"
+      ],
+      "answer_index": 2,
+      "explain": "Microsoft plans to convert Foxconn's empty buildings into what it claims will be the 'world's most powerful' AI data center.",
+      "source": "theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Foxconn"
+      ]
+    }
+  ]
+}

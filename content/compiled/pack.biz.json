@@ -182,6 +182,112 @@
       ],
       "answer_index": 1,
       "explain": "Strict-Transport-Security (HSTS) locks the origin to HTTPS once trusted."
+    },
+    {
+      "id": "1",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "easy",
+      "question": "What recent feature has Microsoft introduced for Windows 11 users?",
+      "choices": [
+        "A. Xbox Copilot",
+        "B. Xbox Live Gold",
+        "C. Xbox Game Pass Ultimate",
+        "D. Xbox Cloud Gaming"
+      ],
+      "answer_index": 0,
+      "explain": "Microsoft launched Xbox Copilot for Windows 11, enhancing gaming capabilities on PCs.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Windows 11",
+        "Xbox"
+      ]
+    },
+    {
+      "id": "2",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "Which company claims it can remove CO2 using less electricity than competitors?",
+      "choices": [
+        "A. Tesla",
+        "B. DACLab",
+        "C. CarbonClean",
+        "D. Climeworks"
+      ],
+      "answer_index": 1,
+      "explain": "DACLab has made headlines for its CO2 removal technology that is more energy-efficient than many alternatives.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "DACLab",
+        "CO2 Removal",
+        "Clean Tech"
+      ]
+    },
+    {
+      "id": "3",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What is the main concern Satya Nadella has regarding Microsoft's future?",
+      "choices": [
+        "A. Competition with Apple",
+        "B. Not surviving the AI era",
+        "C. Cybersecurity threats",
+        "D. Employee retention"
+      ],
+      "answer_index": 1,
+      "explain": "Satya Nadella expressed concerns about Microsoft's ability to stay relevant in the rapidly evolving AI landscape.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Satya Nadella",
+        "Microsoft",
+        "AI"
+      ]
+    },
+    {
+      "id": "4",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "What significant change is Microsoft planning with Foxconn's empty buildings?",
+      "choices": [
+        "A. AI Training Center",
+        "B. AI Data Center",
+        "C. Manufacturing Hub",
+        "D. Research & Development Lab"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft intends to transform Foxconn's unused facilities into a powerful AI data center to enhance its AI capabilities.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Foxconn",
+        "AI Data Center"
+      ]
+    },
+    {
+      "id": "5",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What recent legal measure aims to block online adult content and VPNs?",
+      "choices": [
+        "A. Digital Safety Bill",
+        "B. Online Safety Bill",
+        "C. Internet Freedom Act",
+        "D. Content Regulation Act"
+      ],
+      "answer_index": 1,
+      "explain": "A new bill known as the Online Safety Bill is proposed to restrict access to online adult content and VPN services.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "Legislation",
+        "Online Safety",
+        "VPNs"
+      ]
     }
-  ]
+  ],
+  "last_updated": "2025-10-21T12:58:56.839Z"
 }
