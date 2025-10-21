@@ -5,8 +5,12 @@ const FEEDS = [
   "https://openai.com/news/rss.xml",
   "https://github.com/blog.atom",
   "https://news.ycombinator.com/rss",
-  "https://techcrunch.com/feed/",
-  "https://www.theverge.com/rss/index.xml"
+  "https://techcrunch.com/category/artificial-intelligence/feed/",
+  "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+  "https://anthropic.com/news/rss.xml",
+  "https://ai.googleblog.com/feeds/posts/default",
+  "https://blog.langchain.dev/rss/",
+  "https://simonwillison.net/atom/everything/"
 ];
 
 const parser = new XMLParser({ ignoreAttributes:false, attributeNamePrefix:"" });

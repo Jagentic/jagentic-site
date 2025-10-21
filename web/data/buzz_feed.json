@@ -1,2 +1,62 @@
-[ {"t":"Who’s who: AI labs & OSS maintainers","u":"/"},
-  {"t":"Picture round uses local placeholders only","u":"/"} ]
+[
+  {
+    "t": "How chatbots — and their makers — are enabling AI psychosis",
+    "u": "https://www.theverge.com/podcast/779974/chatgpt-chatbots-ai-psychosis-mental-health"
+  },
+  {
+    "t": "Microsoft’s Xbox Copilot arrives on Windows 11 PCs worldwide",
+    "u": "https://www.theverge.com/news/780771/microsoft-xbox-copilot-windows-game-bar-available-download"
+  },
+  {
+    "t": "Launch HN: Cactus (YC S25) – AI inference on smartphones",
+    "u": "https://github.com/cactus-compute/cactus"
+  },
+  {
+    "t": "Google and PayPal team up on agentic commerce",
+    "u": "https://techcrunch.com/2025/09/18/google-and-paypal-team-up-on-agentic-commerce/"
+  },
+  {
+    "t": "Satya Nadella is haunted at the prospect of Microsoft not surviving the AI era",
+    "u": "https://www.theverge.com/tech/780946/microsoft-satya-nadella-town-hall-comments-ai-era-notepad"
+  },
+  {
+    "t": "New bill aims to block both online adult content and VPNs",
+    "u": "https://www.cnet.com/tech/services-and-software/new-bill-aims-to-block-both-online-adult-content-and-vpns/"
+  },
+  {
+    "t": "American Prairie unlocks another 70k acres in Montana",
+    "u": "https://earthhope.substack.com/p/victory-for-public-access-american"
+  },
+  {
+    "t": "James Cameron on AI: it&#8217;s &#8216;just as creative&#8217; as people, but with no &#8216;unique lived experience&#8217;",
+    "u": "https://www.theverge.com/column/780942/james-cameron-andrew-bosworth-ai-mixed-reality-headsets"
+  },
+  {
+    "t": "Microsoft is turning Foxconn&#8217;s empty buildings into the &#8216;world&#8217;s most powerful&#8217; AI data center",
+    "u": "https://www.theverge.com/news/781052/microsoft-foxconn-fairwater-worlds-most-powerful-ai-data-center"
+  },
+  {
+    "t": "A better future for JavaScript that won't happen",
+    "u": "https://drewdevault.com/2025/09/17/2025-09-17-An-impossible-future-for-JS.html"
+  },
+  {
+    "t": "Hyundai to invest $2.7 billion in Georgia factory hit by ICE raid",
+    "u": "https://www.theverge.com/news/780980/hyundai-investor-day-erev-hybrid-metaplant"
+  },
+  {
+    "t": "Nvidia buys $5 billion stake in Intel, planning AI chip collaboration",
+    "u": "https://techcrunch.com/2025/09/18/nvidia-buys-5-billion-stake-in-intel-planning-ai-chip-collaboration/"
+  },
+  {
+    "t": "Fuck, You're Still Sad?",
+    "u": "https://bessstillman.substack.com/p/oh-fuck-youre-still-sad"
+  },
+  {
+    "t": "Building the future of Open AI with Thomas Wolf at TechCrunch Disrupt 2025",
+    "u": "https://techcrunch.com/2025/09/18/building-the-future-of-open-ai-with-thomas-wolf-at-techcrunch-disrupt-2025/"
+  },
+  {
+    "t": "The quality of AI-assisted software depends on unit of work management",
+    "u": "https://blog.nilenso.com/blog/2025/09/15/ai-unit-of-work/"
+  }
+]

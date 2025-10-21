@@ -24,6 +24,7 @@ jobs:
       - run: npm install --no-audit --no-fund
       - run: node scripts/build-quiz.mjs
       - run: node scripts/fetch-news.mjs
+      - run: node scripts/curate-feeds.mjs
       - uses: actions/upload-pages-artifact@v3
         with: { path: '.' }
   deploy:

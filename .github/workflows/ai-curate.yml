@@ -1,11 +1,11 @@
-name: Update news.json on schedule
+name: AI Quiz Curation
 
 on:
-  schedule: [{ cron: "*/30 * * * *" }]
+  schedule: [{ cron: "0 12 * * *" }]  # Daily at noon UTC
   workflow_dispatch:
 
 jobs:
-  update:
+  curate:
     runs-on: ubuntu-latest
     permissions: { contents: write }
     steps:
@@ -14,14 +14,17 @@ jobs:
         with: { node-version: '20' }
       - run: npm install --no-audit --no-fund
       - run: node scripts/fetch-news.mjs
-      - run: node scripts/curate-feeds.mjs
+      - run: node scripts/ai-curate-quiz.mjs
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      - run: node scripts/build-quiz.mjs
       - name: Commit and push if changed
         run: |
-          if ! git diff --quiet -- news.json; then
+          if ! git diff --quiet -- data/questions-ai-generated.json quiz.json; then
             git config user.name "jagentic-bot"
             git config user.email "info@jagentic.com"
-            git add news.json web/data/biz_feed.json web/data/buzz_feed.json
-            git commit -m "chore: refresh news and ticker feeds"
+            git add data/questions-ai-generated.json quiz.json
+            git commit -m "chore: AI-curated quiz questions"
             git push
           else
-            echo "No changes"
+            echo "No new AI questions"

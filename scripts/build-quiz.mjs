@@ -3,7 +3,8 @@ import fs from "fs/promises";
 const files = [
   "data/questions-openai.json",
   "data/questions-github.json",
-  "data/questions-fundamentals.json"
+  "data/questions-fundamentals.json",
+  "data/questions-ai-generated.json"
 ];
 
 const items = [];
