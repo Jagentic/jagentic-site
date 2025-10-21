@@ -1,0 +1,25 @@
+{
+  "topic": "AI Agent Development",
+  "date": "2025-10-21",
+  "description": "Example source material for quiz curation. Replace with your own AI-encountered content.",
+  "items": [
+    {
+      "fact": "The OpenAI SDK provides a simple interface for building AI agents with conversation history and tool calling capabilities",
+      "source": "https://platform.openai.com/docs",
+      "category": "biz",
+      "tags": ["openai", "ai-agents", "development"]
+    },
+    {
+      "fact": "GitHub Actions can run scheduled workflows using cron syntax, enabling automated content curation",
+      "source": "https://docs.github.com/en/actions",
+      "category": "biz",
+      "tags": ["github", "automation", "ci-cd"]
+    },
+    {
+      "fact": "Claude Code is Anthropic's official CLI tool for AI-assisted software development",
+      "source": "https://claude.com/claude-code",
+      "category": "biz",
+      "tags": ["anthropic", "claude", "developer-tools"]
+    }
+  ]
+}

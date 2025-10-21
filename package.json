@@ -2,7 +2,12 @@
   "name": "jagentic-site",
   "private": true,
   "type": "module",
+  "scripts": {
+    "curate": "node scripts/curate-quiz.mjs",
+    "fetch-news": "node scripts/fetch-news.mjs"
+  },
   "dependencies": {
-    "fast-xml-parser": "^4.3.6"
+    "fast-xml-parser": "^4.3.6",
+    "openai": "^4.77.0"
   }
 }

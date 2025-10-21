@@ -1,0 +1,3 @@
+[ {"t":"CSP: start report-only; enforce after smoke tests","u":"/"},
+  {"t":"LCP < 2.5s, CLS < 0.1, TBT < 200ms","u":"/"},
+  {"t":"Git: PRs enable review, CI, and traceability","u":"/"} ]

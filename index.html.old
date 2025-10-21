@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>JAGENTIC — Engineering Agents, Apps, and Outcomes.</title>
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/news-ticker.css">
+</head>
+<body>
+  <header class="wrap">
+    <h1>JAGENTIC</h1>
+    <p class="tag">Engineering Agents, Apps, and Outcomes.</p>
+  </header>
+
+  <main class="wrap">
+    <section id="quiz-panel" aria-label="Quiz"></section>
+  </main>
+
+  <footer>
+    <div id="news-ticker" aria-label="Developer headlines"></div>
+  </footer>
+
+  <script defer src="assets/quiz.js"></script>
+  <script defer src="assets/news-ticker.js"></script>
+</body>
+</html>
