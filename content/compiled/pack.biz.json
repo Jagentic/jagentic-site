@@ -392,7 +392,112 @@
         "recall",
         "safety"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "easy",
+      "question": "Which company recently announced the launch of Xbox Copilot for Windows 11?",
+      "choices": [
+        "A. Google",
+        "B. Apple",
+        "C. Microsoft",
+        "D. Sony"
+      ],
+      "answer_index": 2,
+      "explain": "Microsoft's Xbox Copilot is designed to enhance gaming experiences on Windows 11 PCs.",
+      "source": "https://theverge.com/2023/10/3/xbox-copilot-windows-11-launch",
+      "tags": [
+        "Microsoft",
+        "Gaming",
+        "Windows"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "What recent concern did Microsoft CEO Satya Nadella express regarding the company's future?",
+      "choices": [
+        "A. Cybersecurity",
+        "B. AI competition",
+        "C. Employee retention",
+        "D. Market share"
+      ],
+      "answer_index": 1,
+      "explain": "Nadella is worried about Microsoft's ability to thrive in the AI era amid growing competition.",
+      "source": "https://theverge.com/2023/10/2/satya-nadella-microsoft-ai-future-concerns",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Leadership"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What innovative capability does DACLab claim to have in relation to CO2 removal?",
+      "choices": [
+        "A. High-energy consumption",
+        "B. Low-cost materials",
+        "C. Less electricity usage than competitors",
+        "D. Large-scale industrial deployment"
+      ],
+      "answer_index": 2,
+      "explain": "DACLab claims it can remove CO2 using less electricity than many of its competitors, making it a more efficient option.",
+      "source": "https://techcrunch.com/2023/10/1/daclab-co2-removal-technology",
+      "tags": [
+        "Climate Tech",
+        "Innovation",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "What recent trend is being seen with the introduction of laws regarding online adult content and VPNs?",
+      "choices": [
+        "A. Increased accessibility",
+        "B. Stricter regulations",
+        "C. Enhanced privacy",
+        "D. More online freedoms"
+      ],
+      "answer_index": 1,
+      "explain": "A new bill aims to block both online adult content and VPNs, indicating a trend towards stricter regulations.",
+      "source": "https://news.ycombinator.com/item?id=33000000",
+      "tags": [
+        "Legislation",
+        "Internet",
+        "Privacy"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "How is Microsoft planning to utilize Foxconn's empty buildings?",
+      "choices": [
+        "A. Manufacturing devices",
+        "B. Creating a gaming studio",
+        "C. Establishing an AI data center",
+        "D. Launching a software hub"
+      ],
+      "answer_index": 2,
+      "explain": "Microsoft is converting Foxconn's empty buildings into what it claims will be the 'world's most powerful' AI data center.",
+      "source": "https://theverge.com/2023/10/4/microsoft-foxconn-ai-data-center-plans",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Data Centers"
+      ]
     }
   ],
-  "last_updated": "2025-10-21T13:35:41.927Z"
+  "last_updated": "2025-10-22T09:19:51.262Z"
 }

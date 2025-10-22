@@ -400,7 +400,112 @@
         "AI",
         "Foxconn"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "easy",
+      "question": "What recent product has Microsoft launched for Windows 11 PCs?",
+      "choices": [
+        "A. Xbox Copilot",
+        "B. Windows Assistant",
+        "C. Xbox Cloud Gaming",
+        "D. Microsoft Teams"
+      ],
+      "answer_index": 0,
+      "explain": "Microsoft recently launched Xbox Copilot for Windows 11 PCs, enhancing the gaming experience.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Windows",
+        "gaming"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "Which company claims to remove CO2 using less electricity than its competitors?",
+      "choices": [
+        "A. CarbonTech",
+        "B. DACLab",
+        "C. GreenFuture",
+        "D. EcoClean"
+      ],
+      "answer_index": 1,
+      "explain": "DACLab has made headlines for its innovative approach to CO2 removal with lower energy consumption.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "DACLab",
+        "environment",
+        "CO2"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What transformation is Microsoft planning for Foxconn's empty buildings?",
+      "choices": [
+        "A. A gaming hub",
+        "B. A manufacturing facility",
+        "C. An AI data center",
+        "D. A research lab"
+      ],
+      "answer_index": 2,
+      "explain": "Microsoft is turning Foxconn's empty buildings into what it claims will be the world's most powerful AI data center.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "data center"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What was James Cameron's perspective on AI's creativity?",
+      "choices": [
+        "A. AI lacks creativity",
+        "B. AI is more creative than humans",
+        "C. AI is just as creative but lacks unique experiences",
+        "D. AI cannot replicate human art"
+      ],
+      "answer_index": 2,
+      "explain": "James Cameron stated that while AI can be as creative as people, it does not have the unique lived experiences that inform human creativity.",
+      "source": "https://theverge.com",
+      "tags": [
+        "James Cameron",
+        "AI",
+        "creativity"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What recent legal bill aims to restrict online adult content and VPNs?",
+      "choices": [
+        "A. The Digital Safety Act",
+        "B. The Internet Regulation Bill",
+        "C. The Online Safety Bill",
+        "D. The Data Protection Act"
+      ],
+      "answer_index": 2,
+      "explain": "The Online Safety Bill is a proposed legislation that aims to block online adult content and restrict the use of VPNs.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "online safety",
+        "legislation",
+        "VPNs"
+      ]
     }
   ],
-  "last_updated": "2025-10-21T13:35:41.927Z"
+  "last_updated": "2025-10-22T09:19:51.263Z"
 }
