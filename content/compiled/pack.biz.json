@@ -497,7 +497,112 @@
         "AI",
         "Data Centers"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "easy",
+      "question": "What recent product has Microsoft launched for Windows 11 PCs?",
+      "choices": [
+        "A. Xbox Copilot",
+        "B. Windows Assistant",
+        "C. Xbox Cloud Gaming",
+        "D. Windows Power Tool"
+      ],
+      "answer_index": 0,
+      "explain": "Microsoft has launched Xbox Copilot for Windows 11 PCs, enhancing gaming experiences with AI assistance.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Windows 11",
+        "Gaming"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "Which company claims to remove CO2 using less electricity than its competitors?",
+      "choices": [
+        "A. DACLab",
+        "B. Carbon Clean",
+        "C. Climeworks",
+        "D. CarbonCure"
+      ],
+      "answer_index": 0,
+      "explain": "DACLab has announced its capability to remove CO2 efficiently, using less energy compared to other companies in the space.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "DACLab",
+        "CO2 Removal",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What concern has Microsoft CEO Satya Nadella expressed regarding the company's future?",
+      "choices": [
+        "A. Competition from Google",
+        "B. Survival in the AI era",
+        "C. Cybersecurity threats",
+        "D. Hardware production issues"
+      ],
+      "answer_index": 1,
+      "explain": "Satya Nadella has voiced concerns about Microsoft's ability to thrive and survive amidst the rapid advancements in AI technology.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Satya Nadella",
+        "AI"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "What has Anker recently recalled due to safety concerns?",
+      "choices": [
+        "A. Smart speakers",
+        "B. Power banks",
+        "C. Charging cables",
+        "D. Wireless earbuds"
+      ],
+      "answer_index": 1,
+      "explain": "Anker recalled over 481,000 power banks due to safety issues, ensuring customer safety and product reliability.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Anker",
+        "Recall",
+        "Product Safety"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What is the goal of the new bill discussed in recent tech news?",
+      "choices": [
+        "A. Enhance online privacy",
+        "B. Block online adult content and VPNs",
+        "C. Regulate social media advertisements",
+        "D. Support net neutrality"
+      ],
+      "answer_index": 1,
+      "explain": "The new bill aims to restrict access to online adult content and VPNs, raising significant discussions about internet freedom.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "Legislation",
+        "Internet Freedom",
+        "VPNs"
+      ]
     }
   ],
-  "last_updated": "2025-10-22T09:19:51.262Z"
+  "last_updated": "2025-10-23T09:18:54.754Z"
 }

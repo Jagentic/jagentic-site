@@ -505,7 +505,112 @@
         "legislation",
         "VPNs"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "easy",
+      "question": "Which company recently launched the Xbox Copilot for Windows 11 PCs?",
+      "choices": [
+        "A: Sony",
+        "B: Microsoft",
+        "C: Nintendo",
+        "D: Valve"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft launched the Xbox Copilot feature to enhance gaming on Windows 11 PCs.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Xbox",
+        "Windows"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What technology does DACLab claim to use for CO2 removal that consumes less electricity than competitors?",
+      "choices": [
+        "A: Carbon Capture",
+        "B: Direct Air Capture",
+        "C: Bioenergy",
+        "D: Chemical Absorption"
+      ],
+      "answer_index": 1,
+      "explain": "DACLab specializes in Direct Air Capture technology, which is noted for its energy efficiency.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "DACLab",
+        "CO2 removal",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What concern did Microsoft CEO Satya Nadella express regarding the company's future?",
+      "choices": [
+        "A: Cybersecurity threats",
+        "B: Competition with Apple",
+        "C: Survival in the AI era",
+        "D: Environmental regulations"
+      ],
+      "answer_index": 2,
+      "explain": "Satya Nadella indicated concern about Microsoft's ability to compete and survive in the rapidly evolving AI landscape.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Satya Nadella",
+        "AI"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "Which recent tech recall involved over 481,000 units of power banks?",
+      "choices": [
+        "A: Anker",
+        "B: Belkin",
+        "C: RAVPower",
+        "D: Aukey"
+      ],
+      "answer_index": 0,
+      "explain": "Anker issued a recall for over 481,000 units of its power banks due to safety concerns.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Anker",
+        "recall",
+        "power banks"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What did filmmaker James Cameron say about AI's creativity?",
+      "choices": [
+        "A: It surpasses human creativity",
+        "B: It's equally creative but lacks lived experience",
+        "C: It's not creative at all",
+        "D: It will replace human artists"
+      ],
+      "answer_index": 1,
+      "explain": "James Cameron remarked that while AI can be as creative as humans, it lacks the unique lived experiences that shape human creativity.",
+      "source": "https://theverge.com",
+      "tags": [
+        "James Cameron",
+        "AI",
+        "creativity"
+      ]
     }
   ],
-  "last_updated": "2025-10-22T09:19:51.263Z"
+  "last_updated": "2025-10-23T09:18:54.755Z"
 }
