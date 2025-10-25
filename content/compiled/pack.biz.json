@@ -602,7 +602,112 @@
         "Internet Freedom",
         "VPNs"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "Which recent Microsoft feature is designed to enhance productivity on Windows 11 PCs?",
+      "choices": [
+        "A) Xbox Copilot",
+        "B) Windows Assistant",
+        "C) Project Neon",
+        "D) Cortana Pro"
+      ],
+      "answer_index": 0,
+      "explain": "Xbox Copilot is a new feature that integrates gaming and productivity tools to streamline workflows on Windows 11.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Windows 11",
+        "productivity"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What innovative method does DACLab utilize for CO2 removal that distinguishes it from competitors?",
+      "choices": [
+        "A) Solar energy",
+        "B) Bubble barrier technology",
+        "C) Low electricity consumption",
+        "D) Carbon capture plants"
+      ],
+      "answer_index": 2,
+      "explain": "DACLab claims to remove CO2 using less electricity than many competitors, which marks a significant advancement in sustainable technology.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "DACLab",
+        "CO2 removal",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "easy",
+      "question": "In 2023, which tech figure expressed concerns about Microsoft’s ability to thrive in the AI era?",
+      "choices": [
+        "A) Sundar Pichai",
+        "B) Tim Cook",
+        "C) Satya Nadella",
+        "D) Elon Musk"
+      ],
+      "answer_index": 2,
+      "explain": "Satya Nadella, Microsoft's CEO, has voiced concerns regarding the company’s survival in the rapidly evolving AI landscape.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Satya Nadella",
+        "AI",
+        "Microsoft"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "What significant move is Microsoft making regarding Foxconn's empty buildings?",
+      "choices": [
+        "A) Converting them into a manufacturing plant",
+        "B) Turning them into an AI data center",
+        "C) Selling the properties",
+        "D) Renovating for retail space"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft plans to convert Foxconn's vacant buildings into what they claim will be the 'world’s most powerful' AI data center.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Foxconn"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What recent legislative proposal aims to restrict online adult content and VPNs?",
+      "choices": [
+        "A) The Clean Internet Bill",
+        "B) The Digital Privacy Act",
+        "C) The Internet Safety Bill",
+        "D) The Cyber Protection Act"
+      ],
+      "answer_index": 2,
+      "explain": "The Internet Safety Bill aims to impose restrictions on adult content and the use of VPNs, reflecting ongoing debates about online safety.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "legislation",
+        "internet safety",
+        "VPNs"
+      ]
     }
   ],
-  "last_updated": "2025-10-24T09:19:22.845Z"
+  "last_updated": "2025-10-25T09:15:38.073Z"
 }

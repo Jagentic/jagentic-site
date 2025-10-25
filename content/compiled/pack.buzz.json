@@ -715,7 +715,112 @@
         "AI",
         "Foxconn"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "easy",
+      "question": "What new feature did Microsoft introduce for Windows 11 PCs?",
+      "choices": [
+        "A) Xbox Copilot",
+        "B) Windows Defender",
+        "C) Cortana 2.0",
+        "D) DirectStorage 2.0"
+      ],
+      "answer_index": 0,
+      "explain": "Microsoft introduced Xbox Copilot to enhance gaming experiences on Windows 11, allowing better integration with Xbox features.",
+      "source": "theverge.com",
+      "tags": [
+        "Microsoft",
+        "Windows 11",
+        "Xbox"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "Which company is turning empty buildings into a major AI data center?",
+      "choices": [
+        "A) Amazon",
+        "B) Google",
+        "C) Microsoft",
+        "D) IBM"
+      ],
+      "answer_index": 2,
+      "explain": "Microsoft is transforming Foxconn's empty buildings into what they claim will be the world's most powerful AI data center.",
+      "source": "theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Data Center"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What recent bill aims to block online adult content and VPNs?",
+      "choices": [
+        "A) Digital Safety Bill",
+        "B) Internet Protection Act",
+        "C) SOPA 2.0",
+        "D) The Children's Internet Safety Act"
+      ],
+      "answer_index": 0,
+      "explain": "The Digital Safety Bill is designed to restrict access to online adult content and VPN services.",
+      "source": "news.ycombinator.com",
+      "tags": [
+        "Legislation",
+        "Internet",
+        "Privacy"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "Who recently commented on the creative capabilities of AI as comparable to humans?",
+      "choices": [
+        "A) Elon Musk",
+        "B) Mark Zuckerberg",
+        "C) James Cameron",
+        "D) Sundar Pichai"
+      ],
+      "answer_index": 2,
+      "explain": "James Cameron acknowledged that AI can exhibit creativity similar to humans, but lacks unique life experiences.",
+      "source": "theverge.com",
+      "tags": [
+        "AI",
+        "James Cameron",
+        "Creativity"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "Which technology startup is focused on AI inference on smartphones and recently launched on HN?",
+      "choices": [
+        "A) Cactus",
+        "B) BloomAI",
+        "C) NeuralNet",
+        "D) PocketAI"
+      ],
+      "answer_index": 0,
+      "explain": "Cactus is a startup that aims to provide AI inference capabilities directly on smartphones, making AI more accessible.",
+      "source": "news.ycombinator.com",
+      "tags": [
+        "AI",
+        "Startup",
+        "Smartphones"
+      ]
     }
   ],
-  "last_updated": "2025-10-24T09:19:22.846Z"
+  "last_updated": "2025-10-25T09:15:38.074Z"
 }
