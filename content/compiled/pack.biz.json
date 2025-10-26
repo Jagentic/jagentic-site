@@ -707,7 +707,112 @@
         "internet safety",
         "VPNs"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "easy",
+      "question": "What new feature did Microsoft recently introduce for Windows 11 PCs?",
+      "choices": [
+        "Xbox Copilot",
+        "Project xCloud",
+        "Windows Sandbox",
+        "DirectStorage"
+      ],
+      "answer_index": 0,
+      "explain": "Microsoft introduced Xbox Copilot, which enhances gaming accessibility on Windows 11.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Windows 11",
+        "Xbox"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "Which tech company claims to remove CO2 more efficiently than its competitors?",
+      "choices": [
+        "DACLab",
+        "Climeworks",
+        "Carbon Clean",
+        "XPRIZE"
+      ],
+      "answer_index": 0,
+      "explain": "DACLab asserts it can remove CO2 using less electricity than many competitors in the carbon capture sector.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "DACLab",
+        "CO2",
+        "Climate Tech"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What major concern does Satya Nadella have regarding Microsoft's future?",
+      "choices": [
+        "Cybersecurity threats",
+        "AI survival",
+        "Regulatory challenges",
+        "Market competition"
+      ],
+      "answer_index": 1,
+      "explain": "Satya Nadella expressed concerns about Microsoft's ability to thrive in the rapidly evolving AI landscape.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Satya Nadella",
+        "Microsoft",
+        "AI"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "What recent action has been taken by a new bill in the U.S. concerning online content?",
+      "choices": [
+        "Legalizing VPNs",
+        "Blocking adult content and VPNs",
+        "Taxing online content",
+        "Promoting online privacy"
+      ],
+      "answer_index": 1,
+      "explain": "A new bill aims to block both online adult content and VPNs, raising concerns about internet freedom.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "Legislation",
+        "Internet",
+        "Privacy"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What is Microsoft planning to turn Foxconn's empty buildings into?",
+      "choices": [
+        "A gaming studio",
+        "AI data center",
+        "Cloud storage facility",
+        "Research lab"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft is converting Foxconn's empty buildings into what they claim will be the world's most powerful AI data center.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Foxconn"
+      ]
     }
   ],
-  "last_updated": "2025-10-25T09:15:38.073Z"
+  "last_updated": "2025-10-26T09:15:26.377Z"
 }
