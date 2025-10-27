@@ -820,7 +820,112 @@
         "Startup",
         "Smartphones"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "easy",
+      "question": "Which feature did Microsoft's Xbox Copilot recently launch for Windows 11 PCs?",
+      "choices": [
+        "A) Gaming aids",
+        "B) Video streaming",
+        "C) Virtual reality support",
+        "D) Voice commands"
+      ],
+      "answer_index": 0,
+      "explain": "Xbox Copilot provides gaming aids to enhance the gaming experience on Windows 11.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Xbox",
+        "Windows 11"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What unique claim does DACLab make regarding CO2 removal?",
+      "choices": [
+        "A) It produces energy from CO2",
+        "B) It removes CO2 with less electricity",
+        "C) It captures CO2 better than trees",
+        "D) It uses solar power exclusively"
+      ],
+      "answer_index": 1,
+      "explain": "DACLab states that it can remove CO2 using less electricity than many of its competitors.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "DACLab",
+        "CO2",
+        "Climate Tech"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What concern did Microsoft CEO Satya Nadella express about the company's future?",
+      "choices": [
+        "A) Competition from Apple",
+        "B) Surviving the AI era",
+        "C) Security breaches",
+        "D) Supply chain issues"
+      ],
+      "answer_index": 1,
+      "explain": "Satya Nadella has voiced concerns about Microsoft's ability to survive in the evolving landscape of AI technology.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Satya Nadella",
+        "Microsoft",
+        "AI"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What recent action was taken regarding Anker's power banks?",
+      "choices": [
+        "A) New model release",
+        "B) Major price reduction",
+        "C) Recall of over 481,000 units",
+        "D) Expansion of features"
+      ],
+      "answer_index": 2,
+      "explain": "Anker has issued a recall for over 481,000 power banks due to safety concerns.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Anker",
+        "Recall",
+        "Power Banks"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What innovative project is Microsoft undertaking in Foxconn's empty buildings?",
+      "choices": [
+        "A) AI data center",
+        "B) Manufacturing plant",
+        "C) Gaming studio",
+        "D) Research lab"
+      ],
+      "answer_index": 0,
+      "explain": "Microsoft is transforming Foxconn's empty buildings into what is said to be the 'world's most powerful' AI data center.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Foxconn",
+        "AI"
+      ]
     }
   ],
-  "last_updated": "2025-10-26T09:15:26.378Z"
+  "last_updated": "2025-10-27T09:21:27.387Z"
 }

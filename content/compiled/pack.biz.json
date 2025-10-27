@@ -812,7 +812,112 @@
         "AI",
         "Foxconn"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "Which tech company recently launched an AI feature called Xbox Copilot for Windows 11 PCs?",
+      "choices": [
+        "A. Google",
+        "B. Microsoft",
+        "C. Apple",
+        "D. Sony"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft's Xbox Copilot is a new AI feature designed to enhance the gaming experience on Windows 11.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Windows 11"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What innovative technology does DACLab claim to use for CO2 removal with lower electricity consumption than competitors?",
+      "choices": [
+        "A. Biochemical processes",
+        "B. Direct air capture",
+        "C. Chemical absorption",
+        "D. Ocean fertilization"
+      ],
+      "answer_index": 1,
+      "explain": "DACLab utilizes direct air capture technology, which allows for efficient CO2 removal with less electricity.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "DACLab",
+        "CO2 removal",
+        "technology"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "easy",
+      "question": "Which recent bill aims to restrict access to online adult content and VPNs?",
+      "choices": [
+        "A. SOPA",
+        "B. PIPA",
+        "C. Online Safety Bill",
+        "D. Communications Decency Act"
+      ],
+      "answer_index": 2,
+      "explain": "The Online Safety Bill is a proposed legislation aimed at blocking online adult content and VPNs.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "legislation",
+        "online safety",
+        "VPNs"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "What major tech company is repurposing Foxconn's empty buildings into an AI data center?",
+      "choices": [
+        "A. Google",
+        "B. Microsoft",
+        "C. Amazon",
+        "D. IBM"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft is transforming Foxconn's empty buildings into what is described as the 'world's most powerful' AI data center.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "data center"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "Which filmmaker recently commented on artificial intelligence, stating it lacks 'unique lived experience' despite being 'just as creative' as humans?",
+      "choices": [
+        "A. Steven Spielberg",
+        "B. James Cameron",
+        "C. Quentin Tarantino",
+        "D. Christopher Nolan"
+      ],
+      "answer_index": 1,
+      "explain": "James Cameron expressed his views on AI's creativity and its lack of human experience in a recent discussion.",
+      "source": "https://theverge.com",
+      "tags": [
+        "James Cameron",
+        "AI",
+        "creativity"
+      ]
     }
   ],
-  "last_updated": "2025-10-26T09:15:26.377Z"
+  "last_updated": "2025-10-27T09:21:27.386Z"
 }
