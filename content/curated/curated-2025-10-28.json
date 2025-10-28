@@ -1,0 +1,220 @@
+{
+  "generated_at": "2025-10-28T09:18:43.523Z",
+  "total_questions": 10,
+  "categories": {
+    "biz": 5,
+    "buzz": 5
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "Which recent Microsoft update allows users to integrate AI into their gaming experience on Windows 11?",
+      "choices": [
+        "A. Xbox Copilot",
+        "B. Windows Defender",
+        "C. Xbox Game Pass",
+        "D. Cortana Gaming Edition"
+      ],
+      "answer_index": 0,
+      "explain": "Xbox Copilot is a new feature that allows Windows 11 users to utilize AI to enhance their gaming experience.",
+      "source": "theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Gaming"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What is the main focus of DACLab's recent technological development?",
+      "choices": [
+        "A. Eco-friendly packaging",
+        "B. CO2 removal",
+        "C. Renewable energy production",
+        "D. Water purification"
+      ],
+      "answer_index": 1,
+      "explain": "DACLab has developed a technology that can remove CO2 from the atmosphere using less electricity compared to competitors.",
+      "source": "techcrunch.com",
+      "tags": [
+        "CO2 removal",
+        "Sustainability",
+        "Tech Innovations"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "easy",
+      "question": "What alarming prospect does Microsoft CEO Satya Nadella express regarding the company's future?",
+      "choices": [
+        "A. Not adapting to mobile",
+        "B. Failing in the AI era",
+        "C. Losing market share",
+        "D. Cybersecurity threats"
+      ],
+      "answer_index": 1,
+      "explain": "Satya Nadella has expressed concerns about Microsoft potentially not surviving the AI revolution, emphasizing the importance of adapting to new technologies.",
+      "source": "theverge.com",
+      "tags": [
+        "Microsoft",
+        "Satya Nadella",
+        "AI"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "What is a key feature of the new bill mentioned in the recent tech news?",
+      "choices": [
+        "A. Regulation of cryptocurrencies",
+        "B. Blocking online adult content and VPNs",
+        "C. Tax breaks for tech companies",
+        "D. Enhanced privacy rights for citizens"
+      ],
+      "answer_index": 1,
+      "explain": "The new bill aims to block both online adult content and VPN services, marking a significant legislative move in digital content regulation.",
+      "source": "news.ycombinator.com",
+      "tags": [
+        "Legislation",
+        "Internet Regulation",
+        "VPN"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What is the purpose of transforming Foxconn's empty buildings into an AI data center by Microsoft?",
+      "choices": [
+        "A. To manufacture gaming consoles",
+        "B. To create the world's most powerful AI data center",
+        "C. To host cloud storage",
+        "D. To develop autonomous vehicles"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft plans to convert Foxconn's empty buildings into the world's most powerful AI data center, reflecting its commitment to advancing AI technologies.",
+      "source": "theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Data Center"
+      ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "easy",
+      "question": "Which company recently launched the Xbox Copilot feature for Windows 11 PCs?",
+      "choices": [
+        "A. Google",
+        "B. Microsoft",
+        "C. Apple",
+        "D. Sony"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft's Xbox Copilot is an accessibility feature that helps users operate the Xbox controller more effectively on Windows 11.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Xbox",
+        "Windows 11"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What is the main concern of Microsoft CEO Satya Nadella regarding the company's future?",
+      "choices": [
+        "A. Competing with Apple",
+        "B. Not surviving the AI era",
+        "C. Cybersecurity threats",
+        "D. Environmental sustainability"
+      ],
+      "answer_index": 1,
+      "explain": "Satya Nadella has expressed concerns about Microsoft not being able to compete effectively in the rapidly evolving AI landscape.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Satya Nadella"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "Which tech company is transforming Foxconn's empty buildings into a powerful AI data center?",
+      "choices": [
+        "A. Amazon",
+        "B. Google",
+        "C. Microsoft",
+        "D. IBM"
+      ],
+      "answer_index": 2,
+      "explain": "Microsoft is repurposing Foxconn's vacant facilities to create what it claims will be the world's most powerful AI data center.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Data Center",
+        "AI"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What product recall recently affected Anker, involving over 481,000 units?",
+      "choices": [
+        "A. Smartphone chargers",
+        "B. Power banks",
+        "C. Wireless earbuds",
+        "D. Bluetooth speakers"
+      ],
+      "answer_index": 1,
+      "explain": "Anker recalled over 481,000 power banks due to safety concerns related to overheating.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Anker",
+        "Product Recall",
+        "Power Banks"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What recent legislative bill aims to block both online adult content and VPNs?",
+      "choices": [
+        "A. The Protect Act",
+        "B. The E-Safety Bill",
+        "C. The Online Safety Bill",
+        "D. The Digital Privacy Act"
+      ],
+      "answer_index": 2,
+      "explain": "The Online Safety Bill is designed to restrict access to adult content and VPN services as part of broader internet safety regulations.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "Legislation",
+        "Online Safety",
+        "VPN"
+      ]
+    }
+  ]
+}

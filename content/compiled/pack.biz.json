@@ -4,36 +4,6 @@
   "version": "r1",
   "questions": [
     {
-      "id": "biz-1",
-      "type": "mcq",
-      "category": "mac",
-      "difficulty": "easy",
-      "question": "Which macOS keyboard shortcut opens Spotlight search?",
-      "choices": [
-        "Command+Shift+P",
-        "Command+Space",
-        "Control+Space",
-        "Option+Space"
-      ],
-      "answer_index": 1,
-      "explain": "Command+Space invokes Spotlight system-wide."
-    },
-    {
-      "id": "biz-2",
-      "type": "mcq",
-      "category": "mac",
-      "difficulty": "easy",
-      "question": "What is the quickest way to capture a selection screenshot on macOS?",
-      "choices": [
-        "Shift+Command+4",
-        "Command+Shift+5",
-        "Command+3",
-        "Control+Command+4"
-      ],
-      "answer_index": 0,
-      "explain": "Shift+Command+4 turns the cursor into a crosshair for selection captures."
-    },
-    {
       "id": "biz-3",
       "type": "mcq",
       "category": "iterm",
@@ -917,7 +887,112 @@
         "AI",
         "creativity"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "Which recent Microsoft update allows users to integrate AI into their gaming experience on Windows 11?",
+      "choices": [
+        "A. Xbox Copilot",
+        "B. Windows Defender",
+        "C. Xbox Game Pass",
+        "D. Cortana Gaming Edition"
+      ],
+      "answer_index": 0,
+      "explain": "Xbox Copilot is a new feature that allows Windows 11 users to utilize AI to enhance their gaming experience.",
+      "source": "theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Gaming"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What is the main focus of DACLab's recent technological development?",
+      "choices": [
+        "A. Eco-friendly packaging",
+        "B. CO2 removal",
+        "C. Renewable energy production",
+        "D. Water purification"
+      ],
+      "answer_index": 1,
+      "explain": "DACLab has developed a technology that can remove CO2 from the atmosphere using less electricity compared to competitors.",
+      "source": "techcrunch.com",
+      "tags": [
+        "CO2 removal",
+        "Sustainability",
+        "Tech Innovations"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "easy",
+      "question": "What alarming prospect does Microsoft CEO Satya Nadella express regarding the company's future?",
+      "choices": [
+        "A. Not adapting to mobile",
+        "B. Failing in the AI era",
+        "C. Losing market share",
+        "D. Cybersecurity threats"
+      ],
+      "answer_index": 1,
+      "explain": "Satya Nadella has expressed concerns about Microsoft potentially not surviving the AI revolution, emphasizing the importance of adapting to new technologies.",
+      "source": "theverge.com",
+      "tags": [
+        "Microsoft",
+        "Satya Nadella",
+        "AI"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "What is a key feature of the new bill mentioned in the recent tech news?",
+      "choices": [
+        "A. Regulation of cryptocurrencies",
+        "B. Blocking online adult content and VPNs",
+        "C. Tax breaks for tech companies",
+        "D. Enhanced privacy rights for citizens"
+      ],
+      "answer_index": 1,
+      "explain": "The new bill aims to block both online adult content and VPN services, marking a significant legislative move in digital content regulation.",
+      "source": "news.ycombinator.com",
+      "tags": [
+        "Legislation",
+        "Internet Regulation",
+        "VPN"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What is the purpose of transforming Foxconn's empty buildings into an AI data center by Microsoft?",
+      "choices": [
+        "A. To manufacture gaming consoles",
+        "B. To create the world's most powerful AI data center",
+        "C. To host cloud storage",
+        "D. To develop autonomous vehicles"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft plans to convert Foxconn's empty buildings into the world's most powerful AI data center, reflecting its commitment to advancing AI technologies.",
+      "source": "theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Data Center"
+      ]
     }
   ],
-  "last_updated": "2025-10-27T09:21:27.386Z"
+  "last_updated": "2025-10-28T09:18:43.525Z"
 }

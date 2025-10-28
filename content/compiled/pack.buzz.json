@@ -4,36 +4,6 @@
   "version": "r1",
   "questions": [
     {
-      "id": "buzz-1",
-      "type": "mcq",
-      "category": "ai-culture",
-      "difficulty": "easy",
-      "question": "Sam Altman is best known for leading which AI lab?",
-      "choices": [
-        "Anthropic",
-        "OpenAI",
-        "Stability AI",
-        "Cohere"
-      ],
-      "answer_index": 1,
-      "explain": "Sam Altman serves as CEO of OpenAI."
-    },
-    {
-      "id": "buzz-2",
-      "type": "mcq",
-      "category": "ai-culture",
-      "difficulty": "easy",
-      "question": "Demis Hassabis co-founded which research organization?",
-      "choices": [
-        "DeepMind",
-        "EleutherAI",
-        "LAION",
-        "Red Hat"
-      ],
-      "answer_index": 0,
-      "explain": "Demis Hassabis co-founded DeepMind, later acquired by Google."
-    },
-    {
       "id": "buzz-3",
       "type": "mcq",
       "category": "industry",
@@ -925,7 +895,112 @@
         "Foxconn",
         "AI"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "easy",
+      "question": "Which company recently launched the Xbox Copilot feature for Windows 11 PCs?",
+      "choices": [
+        "A. Google",
+        "B. Microsoft",
+        "C. Apple",
+        "D. Sony"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft's Xbox Copilot is an accessibility feature that helps users operate the Xbox controller more effectively on Windows 11.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Xbox",
+        "Windows 11"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What is the main concern of Microsoft CEO Satya Nadella regarding the company's future?",
+      "choices": [
+        "A. Competing with Apple",
+        "B. Not surviving the AI era",
+        "C. Cybersecurity threats",
+        "D. Environmental sustainability"
+      ],
+      "answer_index": 1,
+      "explain": "Satya Nadella has expressed concerns about Microsoft not being able to compete effectively in the rapidly evolving AI landscape.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Satya Nadella"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "Which tech company is transforming Foxconn's empty buildings into a powerful AI data center?",
+      "choices": [
+        "A. Amazon",
+        "B. Google",
+        "C. Microsoft",
+        "D. IBM"
+      ],
+      "answer_index": 2,
+      "explain": "Microsoft is repurposing Foxconn's vacant facilities to create what it claims will be the world's most powerful AI data center.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Data Center",
+        "AI"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What product recall recently affected Anker, involving over 481,000 units?",
+      "choices": [
+        "A. Smartphone chargers",
+        "B. Power banks",
+        "C. Wireless earbuds",
+        "D. Bluetooth speakers"
+      ],
+      "answer_index": 1,
+      "explain": "Anker recalled over 481,000 power banks due to safety concerns related to overheating.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Anker",
+        "Product Recall",
+        "Power Banks"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What recent legislative bill aims to block both online adult content and VPNs?",
+      "choices": [
+        "A. The Protect Act",
+        "B. The E-Safety Bill",
+        "C. The Online Safety Bill",
+        "D. The Digital Privacy Act"
+      ],
+      "answer_index": 2,
+      "explain": "The Online Safety Bill is designed to restrict access to adult content and VPN services as part of broader internet safety regulations.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "Legislation",
+        "Online Safety",
+        "VPN"
+      ]
     }
   ],
-  "last_updated": "2025-10-27T09:21:27.387Z"
+  "last_updated": "2025-10-28T09:18:43.526Z"
 }
