@@ -4,81 +4,6 @@
   "version": "r1",
   "questions": [
     {
-      "id": "biz-3",
-      "type": "mcq",
-      "category": "iterm",
-      "difficulty": "medium",
-      "question": "In iTerm2, which shortcut splits the current pane vertically?",
-      "choices": [
-        "Command+D",
-        "Command+Shift+D",
-        "Option+Command+D",
-        "Control+Command+V"
-      ],
-      "answer_index": 0,
-      "explain": "Command+D creates a vertical split; Shift+D splits horizontally."
-    },
-    {
-      "id": "biz-4",
-      "type": "mcq",
-      "category": "iterm",
-      "difficulty": "medium",
-      "question": "What does Command+K do in iTerm2 by default?",
-      "choices": [
-        "Kills the current SSH session",
-        "Clears the scrollback buffer",
-        "Toggles full screen",
-        "Creates a new profile"
-      ],
-      "answer_index": 1,
-      "explain": "Command+K clears the visible buffer without closing the session."
-    },
-    {
-      "id": "biz-5",
-      "type": "mcq",
-      "category": "vscode",
-      "difficulty": "easy",
-      "question": "Which shortcut opens the Command Palette in VS Code on macOS?",
-      "choices": [
-        "Command+Shift+P",
-        "Control+P",
-        "Command+P",
-        "Command+Shift+O"
-      ],
-      "answer_index": 0,
-      "explain": "Command+Shift+P opens the Command Palette with all actions."
-    },
-    {
-      "id": "biz-6",
-      "type": "mcq",
-      "category": "vscode",
-      "difficulty": "medium",
-      "question": "How do you add an extra cursor with the mouse in VS Code on macOS?",
-      "choices": [
-        "Command+Click",
-        "Option+Click",
-        "Shift+Click",
-        "Control+Click"
-      ],
-      "answer_index": 1,
-      "explain": "Option+Click adds another cursor for multi-editing."
-    },
-    {
-      "id": "biz-7",
-      "type": "mcq",
-      "category": "git",
-      "difficulty": "easy",
-      "question": "Which Git command creates and checks out a new branch named feature/login?",
-      "choices": [
-        "git branch feature/login",
-        "git checkout feature/login",
-        "git checkout -b feature/login",
-        "git switch feature/login"
-      ],
-      "answer_index": 2,
-      "explain": "git checkout -b <name> creates the branch and switches to it immediately."
-    },
-    {
       "id": "biz-8",
       "type": "mcq",
       "category": "github",
@@ -992,7 +917,107 @@
         "AI",
         "Data Center"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "easy",
+      "question": "Which major tech company recently introduced Xbox Copilot for Windows 11 PCs?",
+      "choices": [
+        "A) Microsoft",
+        "B) Sony",
+        "C) Apple",
+        "D) Google"
+      ],
+      "answer_index": 0,
+      "explain": "Microsoft launched Xbox Copilot to enhance gaming experiences on Windows 11 PCs.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Xbox",
+        "Microsoft"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "What is notable about DACLab's CO2 removal technology compared to its competitors?",
+      "choices": [
+        "A) Uses more electricity",
+        "B) Uses less electricity",
+        "C) More expensive",
+        "D) Slower process"
+      ],
+      "answer_index": 1,
+      "explain": "DACLab claims its CO2 removal technology is more energy-efficient than many of its competitors.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "DACLab",
+        "CO2 removal"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What concern did Microsoft CEO Satya Nadella express regarding the company’s future?",
+      "choices": [
+        "A) Market share",
+        "B) AI survival",
+        "C) Cybersecurity",
+        "D) Employee retention"
+      ],
+      "answer_index": 1,
+      "explain": "Satya Nadella highlighted the importance of adapting to the AI era for Microsoft's survival.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Satya Nadella",
+        "AI"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "What recent legislative proposal aims to block online adult content and VPN services?",
+      "choices": [
+        "A) Net Neutrality Act",
+        "B) Online Safety Bill",
+        "C) Digital Privacy Act",
+        "D) Cybersecurity Enhancement Act"
+      ],
+      "answer_index": 1,
+      "explain": "The recent Online Safety Bill aims to restrict online adult content and access to VPNs.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "legislation",
+        "VPNs"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What is the purpose of Microsoft transforming Foxconn’s empty buildings?",
+      "choices": [
+        "A) Retail space",
+        "B) AI data center",
+        "C) Manufacturing plant",
+        "D) Research facility"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft plans to convert these buildings into one of the world's most powerful AI data centers.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI"
+      ]
     }
   ],
-  "last_updated": "2025-10-28T09:18:43.525Z"
+  "last_updated": "2025-10-29T09:18:17.614Z"
 }
