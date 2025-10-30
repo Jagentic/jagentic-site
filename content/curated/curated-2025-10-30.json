@@ -1,0 +1,215 @@
+{
+  "generated_at": "2025-10-30T09:19:07.666Z",
+  "total_questions": 10,
+  "categories": {
+    "biz": 5,
+    "buzz": 5
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "Which recent Microsoft feature is designed to assist users on Windows 11 PCs?",
+      "choices": [
+        "A. Xbox Copilot",
+        "B. Windows Assistant",
+        "C. Office Helper",
+        "D. AI Navigator"
+      ],
+      "answer_index": 0,
+      "explain": "Xbox Copilot is a new feature from Microsoft that helps users with tasks on Windows 11, enhancing productivity and user experience.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Windows 11"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What major concern did Microsoft CEO Satya Nadella express regarding the future of the company?",
+      "choices": [
+        "A. Lack of cloud services",
+        "B. Survival in the AI era",
+        "C. Competition from Apple",
+        "D. Data privacy regulations"
+      ],
+      "answer_index": 1,
+      "explain": "Satya Nadella has voiced concerns about Microsoft's ability to thrive in the rapidly evolving landscape of AI technologies.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "easy",
+      "question": "What recent bill aims to restrict online adult content and VPN usage?",
+      "choices": [
+        "A. Internet Freedom Act",
+        "B. Online Safety Act",
+        "C. Digital Security Bill",
+        "D. Content Regulation Bill"
+      ],
+      "answer_index": 1,
+      "explain": "The Online Safety Act is a recent legislative proposal aimed at combating online adult content and restricting VPN access.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "Legislation",
+        "Internet Safety"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "What is the primary focus of DACLab's technology as highlighted in recent news?",
+      "choices": [
+        "A. Energy storage",
+        "B. CO2 removal efficiency",
+        "C. Renewable energy production",
+        "D. Water purification"
+      ],
+      "answer_index": 1,
+      "explain": "DACLab's technology is focused on removing CO2 from the atmosphere using less electricity compared to many competitors.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "Climate Tech",
+        "CO2 Removal"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What is the recent initiative by Microsoft regarding Foxconn's empty buildings?",
+      "choices": [
+        "A. New smartphone production",
+        "B. AI data center development",
+        "C. Cloud service expansion",
+        "D. Gaming hardware manufacturing"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft plans to transform Foxconn's unused buildings into a powerful AI data center, marking a significant investment in AI infrastructure.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI Infrastructure"
+      ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "easy",
+      "question": "What recent feature was released by Microsoft for Windows 11 PCs?",
+      "choices": [
+        "A. Xbox Copilot",
+        "B. Game Pass",
+        "C. Windows Defender",
+        "D. Azure AI"
+      ],
+      "answer_index": 0,
+      "explain": "Xbox Copilot is a new feature that enhances the gaming experience on Windows 11 PCs.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Windows 11",
+        "gaming"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What is the concern Satya Nadella has regarding Microsoft?",
+      "choices": [
+        "A. Competing with Apple",
+        "B. Surviving the AI era",
+        "C. Losing market share",
+        "D. Cybersecurity threats"
+      ],
+      "answer_index": 1,
+      "explain": "Satya Nadella expressed concerns about Microsoft's ability to survive in the rapidly evolving AI landscape.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Satya Nadella",
+        "AI"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What major project is Microsoft undertaking with Foxconn's empty buildings?",
+      "choices": [
+        "A. A new gaming studio",
+        "B. AI data center",
+        "C. Cloud computing hub",
+        "D. Robotics laboratory"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft is transforming Foxconn's empty buildings into what it claims will be the world's most powerful AI data center.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Foxconn",
+        "AI"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What does the recent bill aim to block online?",
+      "choices": [
+        "A. Social media",
+        "B. Adult content and VPNs",
+        "C. Cryptocurrency trading",
+        "D. Online gaming"
+      ],
+      "answer_index": 1,
+      "explain": "The bill specifically targets blocking both online adult content and VPN services.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "legislation",
+        "VPNs",
+        "internet"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "Who is the filmmaker that commented on AI's creativity compared to humans?",
+      "choices": [
+        "A. Steven Spielberg",
+        "B. James Cameron",
+        "C. Christopher Nolan",
+        "D. Ridley Scott"
+      ],
+      "answer_index": 1,
+      "explain": "James Cameron stated that AI is 'just as creative' as humans but lacks 'unique lived experience.'",
+      "source": "https://theverge.com",
+      "tags": [
+        "James Cameron",
+        "AI",
+        "creativity"
+      ]
+    }
+  ]
+}

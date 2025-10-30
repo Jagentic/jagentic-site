@@ -4,81 +4,6 @@
   "version": "r1",
   "questions": [
     {
-      "id": "biz-8",
-      "type": "mcq",
-      "category": "github",
-      "difficulty": "easy",
-      "question": "What is the primary purpose of a pull request on GitHub?",
-      "choices": [
-        "To rewrite repository history",
-        "To request review and discussion before merging",
-        "To delete a remote branch",
-        "To fork a repository"
-      ],
-      "answer_index": 1,
-      "explain": "Pull requests enable code review, discussion, and checks before merging."
-    },
-    {
-      "id": "biz-9",
-      "type": "mcq",
-      "category": "models",
-      "difficulty": "medium",
-      "question": "Which statement best describes a foundation model?",
-      "choices": [
-        "A model trained for one specific downstream task",
-        "A broadly pretrained model adapted to many tasks",
-        "A model that only runs on mobile devices",
-        "A rules engine with hard-coded logic"
-      ],
-      "answer_index": 1,
-      "explain": "Foundation models are pretrained on diverse data and fine-tuned for multiple tasks."
-    },
-    {
-      "id": "biz-10",
-      "type": "mcq",
-      "category": "web_vitals",
-      "difficulty": "medium",
-      "question": "Which Core Web Vitals metric tracks perceived load speed of the main content?",
-      "choices": [
-        "First Input Delay",
-        "Largest Contentful Paint",
-        "Cumulative Layout Shift",
-        "Time to First Byte"
-      ],
-      "answer_index": 1,
-      "explain": "Largest Contentful Paint measures when the biggest content element renders."
-    },
-    {
-      "id": "biz-11",
-      "type": "mcq",
-      "category": "security",
-      "difficulty": "easy",
-      "question": "What does a Content-Security-Policy (CSP) primarily do?",
-      "choices": [
-        "Cache assets across CDNs",
-        "Restrict allowed sources for content",
-        "Encrypt all cookies",
-        "Set the site timezone"
-      ],
-      "answer_index": 1,
-      "explain": "CSP reduces XSS risk by limiting which origins may supply resources."
-    },
-    {
-      "id": "biz-12",
-      "type": "mcq",
-      "category": "security",
-      "difficulty": "medium",
-      "question": "Which header tells browsers to prefer HTTPS for future requests?",
-      "choices": [
-        "X-Frame-Options",
-        "Strict-Transport-Security",
-        "Access-Control-Allow-Origin",
-        "Referrer-Policy"
-      ],
-      "answer_index": 1,
-      "explain": "Strict-Transport-Security (HSTS) locks the origin to HTTPS once trusted."
-    },
-    {
       "id": "1",
       "type": "mcq",
       "category": "biz",
@@ -1017,7 +942,107 @@
         "Microsoft",
         "AI"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "Which recent Microsoft feature is designed to assist users on Windows 11 PCs?",
+      "choices": [
+        "A. Xbox Copilot",
+        "B. Windows Assistant",
+        "C. Office Helper",
+        "D. AI Navigator"
+      ],
+      "answer_index": 0,
+      "explain": "Xbox Copilot is a new feature from Microsoft that helps users with tasks on Windows 11, enhancing productivity and user experience.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Windows 11"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What major concern did Microsoft CEO Satya Nadella express regarding the future of the company?",
+      "choices": [
+        "A. Lack of cloud services",
+        "B. Survival in the AI era",
+        "C. Competition from Apple",
+        "D. Data privacy regulations"
+      ],
+      "answer_index": 1,
+      "explain": "Satya Nadella has voiced concerns about Microsoft's ability to thrive in the rapidly evolving landscape of AI technologies.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "easy",
+      "question": "What recent bill aims to restrict online adult content and VPN usage?",
+      "choices": [
+        "A. Internet Freedom Act",
+        "B. Online Safety Act",
+        "C. Digital Security Bill",
+        "D. Content Regulation Bill"
+      ],
+      "answer_index": 1,
+      "explain": "The Online Safety Act is a recent legislative proposal aimed at combating online adult content and restricting VPN access.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "Legislation",
+        "Internet Safety"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "medium",
+      "question": "What is the primary focus of DACLab's technology as highlighted in recent news?",
+      "choices": [
+        "A. Energy storage",
+        "B. CO2 removal efficiency",
+        "C. Renewable energy production",
+        "D. Water purification"
+      ],
+      "answer_index": 1,
+      "explain": "DACLab's technology is focused on removing CO2 from the atmosphere using less electricity compared to many competitors.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "Climate Tech",
+        "CO2 Removal"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "biz",
+      "difficulty": "hard",
+      "question": "What is the recent initiative by Microsoft regarding Foxconn's empty buildings?",
+      "choices": [
+        "A. New smartphone production",
+        "B. AI data center development",
+        "C. Cloud service expansion",
+        "D. Gaming hardware manufacturing"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft plans to transform Foxconn's unused buildings into a powerful AI data center, marking a significant investment in AI infrastructure.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI Infrastructure"
+      ]
     }
   ],
-  "last_updated": "2025-10-29T09:18:17.614Z"
+  "last_updated": "2025-10-30T09:19:07.667Z"
 }

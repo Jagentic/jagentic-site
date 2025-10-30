@@ -4,81 +4,6 @@
   "version": "r1",
   "questions": [
     {
-      "id": "buzz-3",
-      "type": "mcq",
-      "category": "industry",
-      "difficulty": "easy",
-      "question": "Satya Nadella has been CEO of which technology company?",
-      "choices": [
-        "Microsoft",
-        "Adobe",
-        "IBM",
-        "Salesforce"
-      ],
-      "answer_index": 0,
-      "explain": "Satya Nadella became Microsoft CEO in 2014."
-    },
-    {
-      "id": "buzz-4",
-      "type": "mcq",
-      "category": "dev-community",
-      "difficulty": "medium",
-      "question": "Theo Browne is closely associated with which developer-focused stack?",
-      "choices": [
-        "MEAN Stack",
-        "T3 Stack",
-        "LAMP Stack",
-        "MERN Stack"
-      ],
-      "answer_index": 1,
-      "explain": "Theo Browne popularizes the T3 Stack (Next.js, tRPC, Tailwind, Prisma)."
-    },
-    {
-      "id": "buzz-5",
-      "type": "mcq",
-      "category": "research",
-      "difficulty": "medium",
-      "question": "Fei-Fei Li is widely known for co-leading which dataset effort?",
-      "choices": [
-        "GLUE",
-        "ImageNet",
-        "Common Crawl",
-        "COCO"
-      ],
-      "answer_index": 1,
-      "explain": "Fei-Fei Li helped launch ImageNet, a landmark computer vision dataset."
-    },
-    {
-      "id": "buzz-6",
-      "type": "mcq",
-      "category": "open-source",
-      "difficulty": "easy",
-      "question": "Linus Torvalds initiated which operating system kernel?",
-      "choices": [
-        "FreeBSD",
-        "Linux",
-        "illumos",
-        "Haiku"
-      ],
-      "answer_index": 1,
-      "explain": "Linus Torvalds created the Linux kernel in 1991."
-    },
-    {
-      "id": "buzz-7",
-      "type": "mcq",
-      "category": "programming",
-      "difficulty": "easy",
-      "question": "Guido van Rossum created which programming language?",
-      "choices": [
-        "Ruby",
-        "Go",
-        "Python",
-        "Rust"
-      ],
-      "answer_index": 2,
-      "explain": "Guido van Rossum authored Python in the late 1980s."
-    },
-    {
       "id": "buzz-8",
       "type": "mcq",
       "category": "education",
@@ -1000,7 +925,112 @@
         "Online Safety",
         "VPN"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "easy",
+      "question": "What recent feature was released by Microsoft for Windows 11 PCs?",
+      "choices": [
+        "A. Xbox Copilot",
+        "B. Game Pass",
+        "C. Windows Defender",
+        "D. Azure AI"
+      ],
+      "answer_index": 0,
+      "explain": "Xbox Copilot is a new feature that enhances the gaming experience on Windows 11 PCs.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Windows 11",
+        "gaming"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What is the concern Satya Nadella has regarding Microsoft?",
+      "choices": [
+        "A. Competing with Apple",
+        "B. Surviving the AI era",
+        "C. Losing market share",
+        "D. Cybersecurity threats"
+      ],
+      "answer_index": 1,
+      "explain": "Satya Nadella expressed concerns about Microsoft's ability to survive in the rapidly evolving AI landscape.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Satya Nadella",
+        "AI"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What major project is Microsoft undertaking with Foxconn's empty buildings?",
+      "choices": [
+        "A. A new gaming studio",
+        "B. AI data center",
+        "C. Cloud computing hub",
+        "D. Robotics laboratory"
+      ],
+      "answer_index": 1,
+      "explain": "Microsoft is transforming Foxconn's empty buildings into what it claims will be the world's most powerful AI data center.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Foxconn",
+        "AI"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What does the recent bill aim to block online?",
+      "choices": [
+        "A. Social media",
+        "B. Adult content and VPNs",
+        "C. Cryptocurrency trading",
+        "D. Online gaming"
+      ],
+      "answer_index": 1,
+      "explain": "The bill specifically targets blocking both online adult content and VPN services.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "legislation",
+        "VPNs",
+        "internet"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "Who is the filmmaker that commented on AI's creativity compared to humans?",
+      "choices": [
+        "A. Steven Spielberg",
+        "B. James Cameron",
+        "C. Christopher Nolan",
+        "D. Ridley Scott"
+      ],
+      "answer_index": 1,
+      "explain": "James Cameron stated that AI is 'just as creative' as humans but lacks 'unique lived experience.'",
+      "source": "https://theverge.com",
+      "tags": [
+        "James Cameron",
+        "AI",
+        "creativity"
+      ]
     }
   ],
-  "last_updated": "2025-10-29T09:18:17.616Z"
+  "last_updated": "2025-10-30T09:19:07.668Z"
 }
