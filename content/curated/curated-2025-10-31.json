@@ -1,0 +1,115 @@
+{
+  "generated_at": "2025-10-31T09:19:03.047Z",
+  "total_questions": 5,
+  "categories": {
+    "biz": 0,
+    "buzz": 5
+  },
+  "questions": [
+    {
+      "id": "1",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "easy",
+      "question": "What recent feature has Microsoft introduced for Xbox users on Windows 11 PCs?",
+      "choices": [
+        "A. Xbox Copilot",
+        "B. Xbox Live Gold",
+        "C. Xbox Cloud Gaming",
+        "D. Xbox Game Pass"
+      ],
+      "answer_index": 0,
+      "explain": "Microsoft's Xbox Copilot allows users to enhance their gaming experience on Windows 11 PCs by providing aids and assistance.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Xbox",
+        "Windows 11"
+      ]
+    },
+    {
+      "id": "2",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "Which tech visionary expressed concerns about Microsoft's survival in the AI era?",
+      "choices": [
+        "A. Elon Musk",
+        "B. Tim Cook",
+        "C. Satya Nadella",
+        "D. Sundar Pichai"
+      ],
+      "answer_index": 2,
+      "explain": "Satya Nadella, Microsoft's CEO, has openly discussed the challenges the company faces in adapting to the rapidly evolving AI landscape.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Satya Nadella"
+      ]
+    },
+    {
+      "id": "3",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What is the primary focus of DACLab's technology according to recent reports?",
+      "choices": [
+        "A. Blockchain Solutions",
+        "B. CO2 Removal",
+        "C. Quantum Computing",
+        "D. Renewable Energy Storage"
+      ],
+      "answer_index": 1,
+      "explain": "DACLab's technology aims to efficiently remove CO2 from the atmosphere, utilizing less electricity compared to competing methods.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "DACLab",
+        "CO2 Removal",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "4",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What recent action has Anker taken involving their power banks?",
+      "choices": [
+        "A. New product launch",
+        "B. Global expansion",
+        "C. Product recall",
+        "D. Software update"
+      ],
+      "answer_index": 2,
+      "explain": "Anker recalled over 481,000 power banks due to safety concerns, a significant action to ensure customer safety.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Anker",
+        "Product Recall",
+        "Safety"
+      ]
+    },
+    {
+      "id": "5",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What recent legislation aims to restrict both adult content and VPN access?",
+      "choices": [
+        "A. The Protect Act",
+        "B. The Online Safety Bill",
+        "C. The Digital Rights Bill",
+        "D. The Internet Freedom Act"
+      ],
+      "answer_index": 1,
+      "explain": "The Online Safety Bill is designed to tackle issues of adult content accessibility and VPN usage, reflecting broader concerns about online safety.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "Legislation",
+        "Online Safety",
+        "VPNs"
+      ]
+    }
+  ]
+}

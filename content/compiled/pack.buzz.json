@@ -4,89 +4,6 @@
   "version": "r1",
   "questions": [
     {
-      "id": "buzz-8",
-      "type": "mcq",
-      "category": "education",
-      "difficulty": "medium",
-      "question": "Andrew Ng co-founded which online learning platform centered on tech and ML?",
-      "choices": [
-        "Udacity",
-        "Khan Academy",
-        "Coursera",
-        "Datacamp"
-      ],
-      "answer_index": 2,
-      "explain": "Andrew Ng launched Coursera with Daphne Koller in 2012."
-    },
-    {
-      "id": "buzz-pic-1",
-      "type": "picture_mcq",
-      "category": "people",
-      "difficulty": "easy",
-      "question": "Which leader is shown in this portrait?",
-      "choices": [
-        "Sam Altman",
-        "Satya Nadella",
-        "Demis Hassabis",
-        "Theo Browne"
-      ],
-      "answer_index": 0,
-      "explain": "The placeholder portrait represents Sam Altman.",
-      "image": "/assets/people/sam_altman.jpg",
-      "alt": "Portrait photo."
-    },
-    {
-      "id": "buzz-pic-2",
-      "type": "picture_mcq",
-      "category": "people",
-      "difficulty": "easy",
-      "question": "Identify the executive shown in the portrait.",
-      "choices": [
-        "Satya Nadella",
-        "Susan Wojcicki",
-        "Ginni Rometty",
-        "Sundar Pichai"
-      ],
-      "answer_index": 0,
-      "explain": "The placeholder portrait maps to Satya Nadella.",
-      "image": "/assets/people/satya_nadella.jpg",
-      "alt": "Portrait photo."
-    },
-    {
-      "id": "buzz-pic-3",
-      "type": "picture_mcq",
-      "category": "people",
-      "difficulty": "medium",
-      "question": "Which AI lab co-founder does this portrait represent?",
-      "choices": [
-        "Demis Hassabis",
-        "Yann LeCun",
-        "Ilya Sutskever",
-        "Geoffrey Hinton"
-      ],
-      "answer_index": 0,
-      "explain": "The placeholder portrait is labeled for Demis Hassabis.",
-      "image": "/assets/people/demis_hassabis.jpg",
-      "alt": "Portrait photo."
-    },
-    {
-      "id": "buzz-pic-4",
-      "type": "picture_mcq",
-      "category": "people",
-      "difficulty": "medium",
-      "question": "This portrait corresponds to which developer advocate?",
-      "choices": [
-        "Kent C. Dodds",
-        "Theo Browne",
-        "Adam Wathan",
-        "Cassidy Williams"
-      ],
-      "answer_index": 1,
-      "explain": "The placeholder is assigned to Theo Browne of the T3 community.",
-      "image": "/assets/people/theo_browne.jpg",
-      "alt": "Portrait photo."
-    },
-    {
       "id": "b101",
       "type": "mcq",
       "category": "buzz",
@@ -1030,7 +947,112 @@
         "AI",
         "creativity"
       ]
+    },
+    {
+      "id": "1",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "easy",
+      "question": "What recent feature has Microsoft introduced for Xbox users on Windows 11 PCs?",
+      "choices": [
+        "A. Xbox Copilot",
+        "B. Xbox Live Gold",
+        "C. Xbox Cloud Gaming",
+        "D. Xbox Game Pass"
+      ],
+      "answer_index": 0,
+      "explain": "Microsoft's Xbox Copilot allows users to enhance their gaming experience on Windows 11 PCs by providing aids and assistance.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Xbox",
+        "Windows 11"
+      ]
+    },
+    {
+      "id": "2",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "Which tech visionary expressed concerns about Microsoft's survival in the AI era?",
+      "choices": [
+        "A. Elon Musk",
+        "B. Tim Cook",
+        "C. Satya Nadella",
+        "D. Sundar Pichai"
+      ],
+      "answer_index": 2,
+      "explain": "Satya Nadella, Microsoft's CEO, has openly discussed the challenges the company faces in adapting to the rapidly evolving AI landscape.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Satya Nadella"
+      ]
+    },
+    {
+      "id": "3",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What is the primary focus of DACLab's technology according to recent reports?",
+      "choices": [
+        "A. Blockchain Solutions",
+        "B. CO2 Removal",
+        "C. Quantum Computing",
+        "D. Renewable Energy Storage"
+      ],
+      "answer_index": 1,
+      "explain": "DACLab's technology aims to efficiently remove CO2 from the atmosphere, utilizing less electricity compared to competing methods.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "DACLab",
+        "CO2 Removal",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "4",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What recent action has Anker taken involving their power banks?",
+      "choices": [
+        "A. New product launch",
+        "B. Global expansion",
+        "C. Product recall",
+        "D. Software update"
+      ],
+      "answer_index": 2,
+      "explain": "Anker recalled over 481,000 power banks due to safety concerns, a significant action to ensure customer safety.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Anker",
+        "Product Recall",
+        "Safety"
+      ]
+    },
+    {
+      "id": "5",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What recent legislation aims to restrict both adult content and VPN access?",
+      "choices": [
+        "A. The Protect Act",
+        "B. The Online Safety Bill",
+        "C. The Digital Rights Bill",
+        "D. The Internet Freedom Act"
+      ],
+      "answer_index": 1,
+      "explain": "The Online Safety Bill is designed to tackle issues of adult content accessibility and VPN usage, reflecting broader concerns about online safety.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "Legislation",
+        "Online Safety",
+        "VPNs"
+      ]
     }
   ],
-  "last_updated": "2025-10-30T09:19:07.668Z"
+  "last_updated": "2025-10-31T09:19:03.050Z"
 }
