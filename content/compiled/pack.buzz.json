@@ -4,111 +4,6 @@
   "version": "r1",
   "questions": [
     {
-      "id": "b101",
-      "type": "mcq",
-      "category": "buzz",
-      "difficulty": "easy",
-      "question": "Which company recently announced the arrival of Xbox Copilot on Windows 11 PCs worldwide?",
-      "choices": [
-        "A. Sony",
-        "B. Microsoft",
-        "C. Nintendo",
-        "D. Valve"
-      ],
-      "answer_index": 1,
-      "explain": "Microsoft launched Xbox Copilot for Windows 11, enhancing the gaming experience for users.",
-      "source": "theverge.com",
-      "tags": [
-        "Microsoft",
-        "Xbox",
-        "Windows 11"
-      ]
-    },
-    {
-      "id": "b102",
-      "type": "mcq",
-      "category": "buzz",
-      "difficulty": "medium",
-      "question": "What recent initiative did DACLab succeed in regarding CO2 reduction?",
-      "choices": [
-        "A. Increasing electricity consumption",
-        "B. Using less electricity than competitors",
-        "C. Building a new power plant",
-        "D. Reducing the need for CO2 capture"
-      ],
-      "answer_index": 1,
-      "explain": "DACLab claims it can remove CO2 using less electricity than many of its competitors, marking a significant development in carbon capture technology.",
-      "source": "techcrunch.com",
-      "tags": [
-        "DACLab",
-        "CO2 reduction",
-        "environment"
-      ]
-    },
-    {
-      "id": "b103",
-      "type": "mcq",
-      "category": "buzz",
-      "difficulty": "hard",
-      "question": "Which notable filmmaker expressed concerns about the creative capabilities of AI in comparison to humans?",
-      "choices": [
-        "A. Steven Spielberg",
-        "B. James Cameron",
-        "C. Quentin Tarantino",
-        "D. Christopher Nolan"
-      ],
-      "answer_index": 1,
-      "explain": "James Cameron stated that while AI can be creative, it lacks the 'unique lived experience' that humans possess.",
-      "source": "theverge.com",
-      "tags": [
-        "AI",
-        "James Cameron",
-        "creativity"
-      ]
-    },
-    {
-      "id": "b104",
-      "type": "mcq",
-      "category": "buzz",
-      "difficulty": "medium",
-      "question": "What is the purpose of the new bill mentioned in tech news that aims to block online adult content?",
-      "choices": [
-        "A. To promote free speech",
-        "B. To restrict VPN usage",
-        "C. To enhance internet privacy",
-        "D. To ban video games"
-      ],
-      "answer_index": 1,
-      "explain": "The new bill intends to block both online adult content and the use of VPNs, aiming to regulate internet access more strictly.",
-      "source": "news.ycombinator.com",
-      "tags": [
-        "internet policy",
-        "VPNs",
-        "adult content"
-      ]
-    },
-    {
-      "id": "b105",
-      "type": "mcq",
-      "category": "buzz",
-      "difficulty": "hard",
-      "question": "What is Microsoft doing with Foxconn's empty buildings?",
-      "choices": [
-        "A. Selling them",
-        "B. Turning them into a gaming studio",
-        "C. Creating a data center for AI",
-        "D. Demolishing them"
-      ],
-      "answer_index": 2,
-      "explain": "Microsoft plans to convert Foxconn's empty buildings into what it claims will be the 'world's most powerful' AI data center.",
-      "source": "theverge.com",
-      "tags": [
-        "Microsoft",
-        "AI",
-        "Foxconn"
-      ]
-    },
-    {
       "id": "q1",
       "type": "mcq",
       "category": "buzz",
@@ -1052,7 +947,112 @@
         "Online Safety",
         "VPNs"
       ]
+    },
+    {
+      "id": "q1",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "easy",
+      "question": "What recent feature did Microsoft release for Windows 11 PCs?",
+      "choices": [
+        "A. Xbox Copilot",
+        "B. Microsoft Edge Update",
+        "C. Windows File Explorer",
+        "D. Cortana 2.0"
+      ],
+      "answer_index": 0,
+      "explain": "Microsoft's Xbox Copilot is a new feature designed to enhance gaming on Windows 11 PCs.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "Windows 11",
+        "Xbox"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What is DACLab known for in the tech industry?",
+      "choices": [
+        "A. Developing new gaming consoles",
+        "B. CO2 removal using less electricity",
+        "C. AI personal assistants",
+        "D. Blockchain technology"
+      ],
+      "answer_index": 1,
+      "explain": "DACLab has made headlines for its innovative approach to removing CO2, utilizing less electricity than many competitors.",
+      "source": "https://techcrunch.com",
+      "tags": [
+        "DACLab",
+        "CO2 removal",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "Which technology leader expressed concerns about Microsoft’s future in the AI era?",
+      "choices": [
+        "A. Sundar Pichai",
+        "B. Tim Cook",
+        "C. Satya Nadella",
+        "D. Elon Musk"
+      ],
+      "answer_index": 2,
+      "explain": "Satya Nadella, the CEO of Microsoft, has voiced concerns about the company's ability to survive in the rapidly evolving AI landscape.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Satya Nadella"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "medium",
+      "question": "What recent recall involved over 481,000 units of a product?",
+      "choices": [
+        "A. Apple AirPods",
+        "B. Anker's power bank",
+        "C. Samsung Galaxy phones",
+        "D. Fitbit wearables"
+      ],
+      "answer_index": 1,
+      "explain": "Anker had to recall over 481,000 power banks due to safety concerns, highlighting the importance of product safety in tech.",
+      "source": "https://theverge.com",
+      "tags": [
+        "Anker",
+        "recall",
+        "safety"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "category": "buzz",
+      "difficulty": "hard",
+      "question": "What is the unique aspect of the AI inference tech developed by Cactus?",
+      "choices": [
+        "A. It runs on cloud servers",
+        "B. It is designed for smartphones",
+        "C. It requires high-end PCs",
+        "D. It is only available for tablets"
+      ],
+      "answer_index": 1,
+      "explain": "Cactus focuses on AI inference specifically for smartphones, making advanced AI capabilities more accessible on mobile devices.",
+      "source": "https://news.ycombinator.com",
+      "tags": [
+        "AI",
+        "smartphones",
+        "Cactus"
+      ]
     }
   ],
-  "last_updated": "2025-10-31T09:19:03.050Z"
+  "last_updated": "2025-11-01T09:16:17.807Z"
 }
