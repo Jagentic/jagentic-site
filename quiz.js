@@ -323,11 +323,9 @@ const elements = {
 
 // Initialize
 function init() {
-  const startButton = document.getElementById('start-button');
-  if (startButton) {
-    startButton.addEventListener('click', startQuiz);
-  }
   updateScore();
+  // Auto-start quiz immediately
+  startQuiz();
 }
 
 // Start Quiz
