@@ -337,7 +337,7 @@ function startQuiz() {
   state.usedQuestions.clear();
   
   // Shuffle questions for variety
-  state.allQuestions = shuffleArray(quizQuestions).slice(0, 12);
+  state.allQuestions = shuffleArray(quizQuestions).slice(0, 10);
   
   loadQuestion();
 }
